@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" id="meta-theme" content="#f7f6f2">
+<title>中山一号 · 高中学习站</title>
+<script>
+/* 主题预置：在样式加载前定好 data-theme，避免深色模式闪一下白屏 */
+(function(){try{var p=localStorage.getItem('zs1.theme.v1')||'auto';
+var d=p==='dark'||(p==='auto'&&window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches);
+document.documentElement.setAttribute('data-theme',d?'dark':'light');
+document.documentElement.setAttribute('data-theme-pref',p);}catch(e){}})();
+</script>
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<!-- ============ 顶栏 ============ -->
+<header class="topbar">
+  <div class="brand" onclick="ZSApp.go('home')">
+    <span class="brand-mark">中</span>
+    <span class="brand-text"><b>中山一号</b><small>高中学习站</small></span>
+  </div>
+  <div class="topbar-center" id="topbar-center"></div>
+  <div class="topbar-right">
+    <button class="theme-btn" id="theme-btn" type="button" title="切换主题">◐ 跟随系统</button>
+    <span class="mode-chip" id="mode-chip" title="当前后端模式">本地</span>
+    <div class="user-chip" id="user-chip"></div>
+  </div>
+</header>
+
+<div class="layout">
+  <!-- ============ 侧栏 / 手机底栏 ============ -->
+  <nav class="sidebar" id="sidebar"></nav>
+
+  <!-- ============ 主视图 ============ -->
+  <main class="main" id="main">
+    <div id="view" class="view"></div>
+    <footer class="footer">
+      中山一号 · 数据只落本机（本地模式） · 开源题库与教材均标注出处 ·
+      <span id="footer-year"></span> 江德胜
+    </footer>
+  </main>
+</div>
+
+<!-- ============ 登录 / 注册遮罩 ============ -->
+<div class="overlay" id="auth-overlay" hidden>
+  <div class="auth-card">
+    <div class="auth-head">
+      <span class="brand-mark lg">中</span>
+      <h2>中山一号</h2>
+      <p id="auth-sub">先建一个管理员账号，之后可在「全站设置」里给家人注册</p>
+    </div>
+    <div class="auth-tabs">
+      <button class="tab active" data-tab="login">登录</button>
+      <button class="tab" data-tab="signup">注册</button>
+    </div>
+    <form id="auth-form" autocomplete="off">
+      <label>账号 <input id="au-account" type="text" placeholder="建议填邮箱，上云后可直接沿用" required></label>
+      <label id="au-name-wrap" hidden>昵称 <input id="au-name" type="text" placeholder="怎么称呼你"></label>
+      <label>密码 <input id="au-secret" type="password" placeholder="至少 4 位" required minlength="4"></label>
+      <div id="au-otp-wrap" hidden>
+        <label>邮箱验证码 <input id="au-otp" type="text" placeholder="6 位验证码"></label>
+        <button type="button" class="btn ghost sm" id="au-send-otp">获取验证码</button>
+      </div>
+      <div class="auth-err" id="auth-err"></div>
+      <button class="btn primary block" type="submit" id="au-submit">登录</button>
+      <button class="btn ghost block" type="button" id="au-guest" style="margin-top:8px">先逛逛（游客模式）</button>
+    </form>
+    <p class="auth-note" id="auth-note"></p>
+  </div>
+</div>
+
+<!-- ============ 通用弹窗 ============ -->
+<div class="overlay" id="modal-overlay" hidden>
+  <div class="modal-card">
+    <div class="modal-head"><h3 id="modal-title">标题</h3><button class="icon-btn" id="modal-close">×</button></div>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<!-- ============ 轻提示 ============ -->
+<div class="toast" id="toast" hidden></div>
+
+<!-- ============ 数据层（缺文件时由 seed.js 兜底，不会白屏） ============ -->
+<script src="data/cloud-config.js"></script>
+<script src="data/subjects.js"></script>
+<script src="data/q-meta.js"></script>
+<!-- 导入题库：由 _ingest/build_bank.py 从 PDF/Word 生成，与 q-*.js 同格式；
+     静态加载，待某科题库异步到位后由 app.js 并入 ZS_Q。文件不存在时为空，不影响任何功能。 -->
+<script src="data/q-extra.js"></script>
+<!-- 归档资料：整卷 / 志愿 / 学科资料（由 _ingest/classify.py 生成） -->
+<script src="data/downloads.js"></script>
+<script src="data/volunteer.js"></script>
+<script src="data/drive.js"></script>
+<!-- 六科题库按需异步加载（ZSStore.ensure），进哪科才下哪科，云上省流量；
+     文件缺失时 data/seed.js 的内置样例题自动兜底，绝不白屏。 -->
+<script src="data/conclusions.js"></script>
+<script src="data/textbooks.js"></script>
+<script src="data/papers.js"></script>
+<script src="data/universities.js"></script>
+<script src="data/seed.js"></script>
+<script src="data/hot-topics.js"></script>
+<script src="data/kgraph.js"></script>
+<script src="data/regions.js"></script>
+
+<!-- ============ 逻辑层 ============ -->
+<script src="assets/prompts.js"></script>
+<script src="assets/cloud-adapter.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/views-study.js"></script>
+<script src="assets/views-ai.js"></script>
+<script src="assets/views-english.js"></script>
+<script src="assets/views-hot.js"></script>
+<script src="assets/pdf-writer.js"></script>
+<script src="assets/views-kgraph.js"></script>
+<script src="assets/views-files.js"></script>
+<script src="assets/views-bank.js"></script>
+<script src="assets/views-archive.js"></script>
+<script>ZSApp.start();</script>
+</body>
+</html>
