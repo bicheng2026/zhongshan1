@@ -222,6 +222,30 @@
           '<span>' + esc(o.title) + '</span><span class="row"><button class="btn sm ghost" data-ov="' + esc(o.id) + '">查看</button>' +
           '<button class="btn sm ghost" data-od="' + esc(o.id) + '">导出</button></span></div>';
       }).join('') : '<p class="muted">还没有提纲。</p>') + '</div></div></div>';
+
+    /* ④ 官方教材提纲（按章节预置，可对照复习或作 AI 底稿） */
+    var ol = (window.ZS_OUTLINES || []).filter(function (x) { return x.subject === subject; });
+    html += '<div class="card mb"><div class="row between"><h3>④ 官方教材提纲（按章节对照）</h3>' +
+      (subject === 'all' ? '<span class="small muted">选具体科目查看</span>' : '') + '</div>';
+    if (subject === 'all') {
+      html += '<p class="small muted">选择上方「数学 / 物理 / 化学 / 政治 / 语文 / 英语」任一标签，即可看到该科按人教版章节 + 主流教辅体系预置的复习提纲，可一键「作为提纲底稿」载入下方让 AI 扩写。</p>';
+    } else if (!ol.length) {
+      html += '<p class="small muted">该科暂未预置提纲。</p>';
+    } else {
+      html += '<div class="ol-list">';
+      ol.forEach(function (o, i) {
+        html += '<div class="ol-item" style="border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin:8px 0">' +
+          '<div class="row between"><b>' + esc(o.chapter) + '</b><span class="chip tiny">' + esc(o.source || '') + '</span></div>' +
+          '<div class="small mt"><b class="muted">考点：</b>' + o.points.map(esc).join('；') + '</div>' +
+          (o.formulas && o.formulas.length ? '<div class="small mt"><span class="muted">核心：</span>' + o.formulas.map(esc).join('；') + '</div>' : '') +
+          (o.mistakes && o.mistakes.length ? '<div class="small mt"><span class="muted">易错：</span>' + o.mistakes.map(esc).join('；') + '</div>' : '') +
+          (o.focus && o.focus.length ? '<div class="small mt"><span class="muted">高考焦点：</span>' + o.focus.map(esc).join('；') + '</div>' : '') +
+          '<div class="mt"><button class="btn sm ghost" data-ol-load="' + i + '">作为提纲底稿载入</button></div></div>';
+      });
+      html += '</div>';
+    }
+    html += '</div>';
+
     A.render(html);
 
     /* 口述 */
@@ -313,6 +337,22 @@
       n.onclick = async function () {
         var o = await S.get('outlines', n.dataset.od);
         if (o) A.download(sanitize(o.title) + '.md', o.content, 'text/markdown;charset=utf-8');
+      };
+    });
+    $$('[data-ol-load]').forEach(function (n) {
+      n.onclick = function () {
+        var o = ol[+n.dataset.olLoad];
+        if (!o) return;
+        var t = '【' + (SMAP[o.subject] ? SMAP[o.subject].name : o.subject) + '·' + o.chapter + ' 官方提纲底稿】\n' +
+          '出处：' + (o.source || '') + '\n' +
+          '一、考点清单\n' + o.points.map(function (x) { return '  - ' + x; }).join('\n') + '\n' +
+          (o.formulas && o.formulas.length ? '二、核心公式/结论/模板\n' + o.formulas.map(function (x) { return '  - ' + x; }).join('\n') + '\n' : '') +
+          (o.mistakes && o.mistakes.length ? '三、易错点\n' + o.mistakes.map(function (x) { return '  - ' + x; }).join('\n') + '\n' : '') +
+          (o.focus && o.focus.length ? '四、高考焦点\n' + o.focus.map(function (x) { return '  - ' + x; }).join('\n') : '');
+        var ta = el('nt-text');
+        ta.value = (ta.value ? ta.value + '\n\n' : '') + t;
+        toast('已载入「' + o.chapter + '」提纲底稿，可点「整理成复习提纲」让 AI 扩写', 'ok');
+        if (ta.scrollIntoView) ta.scrollIntoView({ behavior: 'smooth', block: 'center' });
       };
     });
   });

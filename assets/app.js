@@ -238,6 +238,10 @@
       var a = window.ZS_PAPERS || [];
       return subject && subject !== 'all' ? a.filter(function (x) { return x.subject === subject; }) : a;
     },
+    outlines: function (subject) {
+      var a = window.ZS_OUTLINES || [];
+      return subject && subject !== 'all' ? a.filter(function (x) { return x.subject === subject; }) : a;
+    },
     universities: function () { return window.ZS_UNIVERSITIES || []; },
     /* 组卷：题库按年份/地区聚合成整卷（开源 papers.js 为空时也能生成） */
     buildPapers: function (subject) {

@@ -143,6 +143,18 @@
 
   /* ---------- 3. 口述 / 笔记 / 教材 → 复习提纲 ---------- */
   P.outline = function (o) {
+    /* 注入本站按人教版教材 + 主流教辅预置的该科章节提纲，作为 AI 校对 / 补全的官方底稿 */
+    var refLines = [];
+    var ols = (window.ZS_OUTLINES || []).filter(function (x) { return x.subject === o.subject; });
+    if (ols.length) {
+      refLines.push('', '## 参考底稿（本站已按人教版教材 + 主流教辅预置该科各章节重点，请据此校对、补全材料，不要凭空编造超出教材范围的内容）');
+      ols.forEach(function (x) {
+        refLines.push('【' + x.chapter + '｜' + (x.source || '') + '】');
+        refLines.push('  考点：' + x.points.join('；'));
+        if (x.formulas && x.formulas.length) refLines.push('  核心：' + x.formulas.join('；'));
+        if (x.mistakes && x.mistakes.length) refLines.push('  易错：' + x.mistakes.join('；'));
+      });
+    }
     return {
       system: base(o.subject) + '\n\n【当前任务】把学生口述内容、上传笔记文字、教材片段整理成一份复习提纲。' +
         '这是「整理」不是「创作」：只重组材料里真实存在的信息，不添油加醋。' +
@@ -151,6 +163,7 @@
       user: [
         '## 材料清单',
         o.materials || '（无）',
+        refLines.join('\n'),
         '',
         '## 要求',
         '科目：' + sname(o.subject) + '；标题：' + (o.title || '复习提纲'),
