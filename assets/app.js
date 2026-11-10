@@ -156,7 +156,22 @@
 
   /* ==================== 数据层 ==================== */
   var loaded = {}, pending = {};
-  /* 数据到手后做一次清洗：全选 ABCD 多为「一材料多小题」合并造成的脏数据，剔除；同时按 id 去重 */
+  /* 数据到手后做一次清洗：全选 ABCD 多为「一材料多小题」合并造成的脏数据，剔除；同时按 id 去重。
+     兜底修复：部分选择题的 options 被存成了「字符串数组」（如 ["A项","B项"]），
+     而非规范的 {key,text} 对象，导致渲染时 o.key/o.text 都是空、选项框空白、
+     点选后 data-key 为空、提交被「先作答」拦截、下一题永远出不来。
+     这里统一把字符串（或缺 key 的对象）补成 {key:'A'/'B'/'C'..., text}，原位改写共享引用，
+     本地 / 云端 / 单文件构建共用本文件，一处修复全生效。 */
+  function fixOptions(q) {
+    if (!q || q.type !== 'choice' || !Array.isArray(q.options)) return;
+    q.options = q.options.map(function (o, i) {
+      var k = String.fromCharCode(65 + i); // A,B,C,D...
+      if (typeof o === 'string') return { key: k, text: o };
+      if (o && typeof o === 'object' && (o.key === undefined || o.key === null || o.key === ''))
+        return { key: k, text: (o.text != null ? o.text : '') };
+      return o;
+    });
+  }
   function normalizeSubject(subject) {
     /* 导入题库（q-extra.js）是静态加载，q-<subject>.js 是按需异步加载。
        必须等本科题库到位后再合并，否则会被 q-<subject>.js 的赋值整个覆盖。 */
@@ -168,6 +183,7 @@
       if (q.type === 'choice' && normChoice(q.answer) === 'ABCD') return false;
       seen[q.id] = 1; return true;
     });
+    (window.ZS_Q[subject] || []).forEach(fixOptions);
   }
   var Store = {
     /* 按需动态加载某一科题库；文件不存在时用 seed.js 的内置样例题 */
