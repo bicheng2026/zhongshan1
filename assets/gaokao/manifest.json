@@ -1,0 +1,1122 @@
+[
+ {
+  "subject": "math",
+  "file": "math/2020新高考1(山东).pdf",
+  "bytes": 660877,
+  "year": 2020,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2020/2020新高考1(山东).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2020新高考2(海南).pdf",
+  "bytes": 660208,
+  "year": 2020,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2020/2020新高考2(海南).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2021新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "bytes": 501645,
+  "year": 2021,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2021/2021新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2021新高考2(海南,辽宁,重庆).pdf",
+  "bytes": 507006,
+  "year": 2021,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2021/2021新高考2(海南,辽宁,重庆).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2022新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "bytes": 503488,
+  "year": 2022,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2022/2022新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2022新高考2(海南,辽宁,重庆).pdf",
+  "bytes": 607669,
+  "year": 2022,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2022/2022新高考2(海南,辽宁,重庆).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2023新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江).pdf",
+  "bytes": 502421,
+  "year": 2023,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2023/2023新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2023新高考2(辽宁,重庆,海南,安徽,吉林,黑龙江,山西,云南).pdf",
+  "bytes": 513153,
+  "year": 2023,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2023/2023新高考2(辽宁,重庆,海南,安徽,吉林,黑龙江,山西,云南).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2024上海.pdf",
+  "bytes": 499733,
+  "year": 2024,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2024/2024上海.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2024北京.pdf",
+  "bytes": 504008,
+  "year": 2024,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2024/2024北京.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2024天津.pdf",
+  "bytes": 504520,
+  "year": 2024,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2024/2024天津.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2024新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "bytes": 579269,
+  "year": 2024,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2024/2024新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2024新高考2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆).pdf",
+  "bytes": 502556,
+  "year": 2024,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2024/2024新高考2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2025上海.pdf",
+  "bytes": 505148,
+  "year": 2025,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2025/2025上海.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2025全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "bytes": 498920,
+  "year": 2025,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2025/2025全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2025全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "bytes": 500030,
+  "year": 2025,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2025/2025全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2025北京.pdf",
+  "bytes": 502484,
+  "year": 2025,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2025/2025北京.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2025天津.pdf",
+  "bytes": 226994,
+  "year": 2025,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2025/2025天津.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2026上海.pdf",
+  "bytes": 118893,
+  "year": 2026,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2026/2026上海.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2026全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "bytes": 107754,
+  "year": 2026,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2026/2026全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2026全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "bytes": 105326,
+  "year": 2026,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2026/2026全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2026北京.pdf",
+  "bytes": 144991,
+  "year": 2026,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2026/2026北京.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "math/2026天津.pdf",
+  "bytes": 115611,
+  "year": 2026,
+  "repo": "deekur/gaokaomath",
+  "path": "普通高考/2026/2026天津.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021山东.pdf",
+  "bytes": 940843,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021山东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021广东.pdf",
+  "bytes": 779734,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021广东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021江苏.pdf",
+  "bytes": 835380,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021江苏.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021河北.pdf",
+  "bytes": 948982,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021河北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021浙江1月.pdf",
+  "bytes": 1026095,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021浙江1月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021浙江6月.pdf",
+  "bytes": 1358448,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021浙江6月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021海南.pdf",
+  "bytes": 706555,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021海南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021湖北.pdf",
+  "bytes": 656770,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021湖北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021湖南.pdf",
+  "bytes": 1109416,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021湖南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021福建.pdf",
+  "bytes": 741816,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021福建.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021辽宁.pdf",
+  "bytes": 687522,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021辽宁.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2021重庆.pdf",
+  "bytes": 749244,
+  "year": 2021,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2021/2021重庆.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022山东.pdf",
+  "bytes": 1250036,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022山东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022广东.pdf",
+  "bytes": 911177,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022广东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022江苏.pdf",
+  "bytes": 846054,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022江苏.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022河北.pdf",
+  "bytes": 1144932,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022河北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022浙江1月.pdf",
+  "bytes": 943377,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022浙江1月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022浙江6月.pdf",
+  "bytes": 1266506,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022浙江6月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022海南.pdf",
+  "bytes": 574513,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022海南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022湖北.pdf",
+  "bytes": 843160,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022湖北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022湖南.pdf",
+  "bytes": 1175574,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022湖南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022福建.pdf",
+  "bytes": 803592,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022福建.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022辽宁.pdf",
+  "bytes": 797546,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022辽宁.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2022重庆.pdf",
+  "bytes": 993147,
+  "year": 2022,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2022/2022重庆.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023山东.pdf",
+  "bytes": 938417,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023山东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023广东.pdf",
+  "bytes": 555625,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023广东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023新高考理综(山西,吉林,黑龙江,安徽,云南).pdf",
+  "bytes": 559777,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023新高考理综(山西,吉林,黑龙江,安徽,云南).pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023江苏.pdf",
+  "bytes": 708643,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023江苏.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023河北.pdf",
+  "bytes": 1008120,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023河北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023浙江1月.pdf",
+  "bytes": 1030581,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023浙江1月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023浙江6月.pdf",
+  "bytes": 895922,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023浙江6月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023湖北.pdf",
+  "bytes": 909774,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023湖北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023湖南.pdf",
+  "bytes": 1098142,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023湖南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023福建.pdf",
+  "bytes": 4504628,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023福建.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023辽宁.pdf",
+  "bytes": 951413,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023辽宁.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2023重庆.pdf",
+  "bytes": 842447,
+  "year": 2023,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2023/2023重庆.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024安徽.pdf",
+  "bytes": 533519,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024安徽.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024山东.pdf",
+  "bytes": 744169,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024山东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024广东.pdf",
+  "bytes": 633833,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024广东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024广西.pdf",
+  "bytes": 575061,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024广西.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024新高考理综(河南,山西,云南,新疆).pdf",
+  "bytes": 661683,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024新高考理综(河南,山西,云南,新疆).pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024江苏.pdf",
+  "bytes": 494171,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024江苏.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024江西.pdf",
+  "bytes": 673124,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024江西.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024河北.pdf",
+  "bytes": 734609,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024河北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024浙江1月.pdf",
+  "bytes": 881534,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024浙江1月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024浙江6月.pdf",
+  "bytes": 732982,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024浙江6月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024海南.pdf",
+  "bytes": 648303,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024海南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024湖南.pdf",
+  "bytes": 668605,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024湖南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024甘肃.pdf",
+  "bytes": 584001,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024甘肃.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024福建.pdf",
+  "bytes": 649283,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024福建.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024贵州.pdf",
+  "bytes": 702281,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024贵州.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024重庆.pdf",
+  "bytes": 547514,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024重庆.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2024黑吉辽.pdf",
+  "bytes": 639597,
+  "year": 2024,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2024/2024黑吉辽.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025云南.pdf",
+  "bytes": 610110,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025云南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025四川.pdf",
+  "bytes": 565235,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025四川.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025安徽.pdf",
+  "bytes": 561967,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025安徽.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025山东.pdf",
+  "bytes": 710124,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025山东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025广东.pdf",
+  "bytes": 671328,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025广东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025广西.pdf",
+  "bytes": 592945,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025广西.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025江苏.pdf",
+  "bytes": 511283,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025江苏.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025江西.pdf",
+  "bytes": 658535,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025江西.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025河北.pdf",
+  "bytes": 617700,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025河北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025河南.pdf",
+  "bytes": 569492,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025河南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025浙江1月.pdf",
+  "bytes": 863723,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025浙江1月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025浙江6月.pdf",
+  "bytes": 836881,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025浙江6月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025海南.pdf",
+  "bytes": 585959,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025海南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025湖北.pdf",
+  "bytes": 535787,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025湖北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025福建.pdf",
+  "bytes": 691760,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025福建.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025贵州.pdf",
+  "bytes": 622204,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025贵州.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025重庆.pdf",
+  "bytes": 592575,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025重庆.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025陕晋宁青.pdf",
+  "bytes": 597876,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025陕晋宁青.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2025黑吉辽蒙.pdf",
+  "bytes": 626352,
+  "year": 2025,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2025/2025黑吉辽蒙.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026云南.pdf",
+  "bytes": 708653,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026云南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026四川.pdf",
+  "bytes": 576654,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026四川.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026山东.pdf",
+  "bytes": 688086,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026山东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026广东.pdf",
+  "bytes": 697717,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026广东.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026江苏.pdf",
+  "bytes": 883464,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026江苏.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026河北.pdf",
+  "bytes": 615968,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026河北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026河南.pdf",
+  "bytes": 617887,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026河南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026浙江1月.pdf",
+  "bytes": 1061337,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026浙江1月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026浙江6月.pdf",
+  "bytes": 847216,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026浙江6月.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026湖北.pdf",
+  "bytes": 487403,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026湖北.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026湖南.pdf",
+  "bytes": 511246,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026湖南.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026甘肃.pdf",
+  "bytes": 474285,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026甘肃.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026贵州.pdf",
+  "bytes": 631122,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026贵州.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026重庆.pdf",
+  "bytes": 946974,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026重庆.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026陕晋青宁.pdf",
+  "bytes": 553527,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026陕晋青宁.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "physics/2026黑吉辽蒙.pdf",
+  "bytes": 559996,
+  "year": 2026,
+  "repo": "deekur/gaokaophysics",
+  "path": "普通高考/2026/2026黑吉辽蒙.pdf"
+ },
+ {
+  "subject": "other",
+  "file": "mock/雅思写作小作文讲义 for PRINT 2.0.pdf",
+  "bytes": 1362913,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "讲义/雅思写作小作文讲义 for PRINT 2.0.pdf"
+ },
+ {
+  "subject": "other",
+  "file": "mock/雅思阅读讲义(新).pdf",
+  "bytes": 1089393,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "讲义/雅思阅读讲义(新).pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "mock/2025年贵州贵阳高三二模化学试卷 答案版.pdf",
+  "bytes": 3357744,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/化学/2025年贵州贵阳高三二模化学试卷 答案版.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "mock/2025年贵州贵阳高三二模化学试卷.pdf",
+  "bytes": 2980913,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/化学/2025年贵州贵阳高三二模化学试卷.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷.pdf",
+  "bytes": 471336,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/数学/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷（答案版）.pdf",
+  "bytes": 1299968,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/数学/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷（答案版）.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷.pdf",
+  "bytes": 599664,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/数学/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷.pdf"
+ },
+ {
+  "subject": "math",
+  "file": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷（答案）.pdf",
+  "bytes": 1750199,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/数学/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷（答案）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷.pdf",
+  "bytes": 1231909,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷（模拟）.pdf",
+  "bytes": 1313706,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷（模拟）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷.pdf",
+  "bytes": 614325,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷（答案）.pdf",
+  "bytes": 977032,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷（答案）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2024年贵州贵阳高三一模物理试卷（适应性）.pdf",
+  "bytes": 1045225,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2024年贵州贵阳高三一模物理试卷（适应性）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2024年贵州贵阳高三一模物理试卷（适应性）答案.pdf",
+  "bytes": 1390955,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2024年贵州贵阳高三一模物理试卷（适应性）答案.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）.pdf",
+  "bytes": 2740549,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年广西桂林高三一模物理试卷（第一次跨市联合）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）（答案）.pdf",
+  "bytes": 3079525,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年广西桂林高三一模物理试卷（第一次跨市联合）（答案）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年广西河池高三一模物理试卷（八校协作体）.pdf",
+  "bytes": 803212,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年广西河池高三一模物理试卷（八校协作体）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年广西河池高三一模物理试卷（八校协作体）（答案）.pdf",
+  "bytes": 1147931,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年广西河池高三一模物理试卷（八校协作体）（答案）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年广西高三一模物理试卷.pdf",
+  "bytes": 3048804,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年广西高三一模物理试卷.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年广西高三一模物理试卷（答案）.pdf",
+  "bytes": 3292208,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年广西高三一模物理试卷（答案）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）.pdf",
+  "bytes": 1862171,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）（答案）.pdf",
+  "bytes": 2411568,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）（答案）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））.pdf",
+  "bytes": 1223105,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））（答案）.pdf",
+  "bytes": 1505323,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））（答案）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年贵州贵阳高三一模物理试卷.pdf",
+  "bytes": 1862394,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年贵州贵阳高三一模物理试卷.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年贵州贵阳高三一模物理试卷（答案）.pdf",
+  "bytes": 2408977,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年贵州贵阳高三一模物理试卷（答案）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）.pdf",
+  "bytes": 2227248,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）.pdf"
+ },
+ {
+  "subject": "physics",
+  "file": "mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）（答案）.pdf",
+  "bytes": 2800689,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）（答案）.pdf"
+ },
+ {
+  "subject": "other",
+  "file": "mock/周考(1).pdf",
+  "bytes": 2817074,
+  "year": 2024,
+  "repo": "Serennity007/guizhou-exam-papers",
+  "path": "高三/物理/周考(1).pdf"
+ }
+]
