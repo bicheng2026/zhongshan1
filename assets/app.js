@@ -202,7 +202,8 @@
        必须等本科题库到位后再合并，否则会被 q-<subject>.js 的赋值整个覆盖。 */
     window.ZS_Q = window.ZS_Q || {};
     var arr = (window.ZS_Q[subject] || [])
-      .concat((window.ZS_Q_EXTRA && window.ZS_Q_EXTRA[subject]) || []), seen = {};
+      .concat((window.ZS_Q_EXTRA && window.ZS_Q_EXTRA[subject]) || [])
+      .concat((window.ZS_Q_REAL && window.ZS_Q_REAL[subject]) || []), seen = {};
     window.ZS_Q[subject] = arr.filter(function (q) {
       if (!q || !q.id || seen[q.id]) return false;
       if (q.type === 'choice' && normChoice(q.answer) === 'ABCD') return false;
@@ -271,7 +272,28 @@
     levels: function (subject, region) {
       var arr = Store.filter(subject, region).slice();
       arr.sort(function (a, b) {
-        return (a.difficulty - b.difficulty) || (a.year - b.year) || String(a.id).localeCompare(String(b.id));
+        return (a.difficulty - b.difficulty) || (b.year - a.year) || String(a.id).localeCompare(String(b.id));
+      });
+      /* 同难度段内按题型轮转交错（choice/fill/...轮流取），每关题型混合；全确定性可复现 */
+      var buck = [], cur = null;
+      arr.forEach(function (x) {
+        var d = x.difficulty || 3;
+        if (d !== cur) { buck.push([]); cur = d; }
+        buck[buck.length - 1].push(x);
+      });
+      arr = [];
+      buck.forEach(function (grp) {
+        var byType = {};
+        grp.forEach(function (x) { (byType[x.type || 'choice'] = byType[x.type || 'choice'] || []).push(x); });
+        var types = Object.keys(byType);
+        var round = 0, guard = grp.length + 1;
+        while (guard--) {
+          var t = types[round % types.length];
+          if (byType[t] && byType[t].length) arr.push(byType[t].shift());
+          var done = types.every(function (tt) { return !byType[tt].length; });
+          if (done) break;
+          round++;
+        }
       });
       var per = window.ZS_QUESTIONS_PER_LEVEL, n = window.ZS_LEVELS_PER_SUBJECT, out = [];
       for (var i = 0; i < n; i++) {
