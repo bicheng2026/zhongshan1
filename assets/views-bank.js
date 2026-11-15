@@ -67,7 +67,8 @@
         '<span class="chip">' + esc(subjectName(x.s)) + '</span></div>' +
         '<p class="small muted" style="margin:6px 0 0">' +
         (q.type === 'choice' ? '选择题 · ' + opts + ' 个选项' : '开放题') +
-        '　答案：' + esc(q.answer || '—') + '　来源：' + esc(q.source || '—') + '</p></div>';
+        '　章节：' + esc(window.ZS_CLASSIFY(x.s, q) || '综合') +
+        '　出处：' + esc(q.source || '—') + '</p></div>';
     }).join('') : '<p class="small muted">暂无。</p>';
 
     el('bk-review').innerHTML = review.length ? review.map(function (q, i) {

@@ -133,6 +133,11 @@ h1{font-size:24px} h2{font-size:19px} h3{font-size:16px} h4{font-size:14px}
 .chip.orange{background:var(--accent-soft);color:var(--accent);border-color:transparent}
 .chip.warn{background:var(--warn-soft);color:var(--warn);border-color:transparent}
 .chip.sel{background:var(--primary);color:#fff;border-color:var(--primary)}
+/* 题目出处标签：橙底显眼，强调"这道题来自哪里" */
+.src-chip{display:inline-block;padding:3px 11px;border-radius:20px;background:#fff7e6;
+  border:1px solid #f0d9a8;color:#a05a00;font-size:12px;font-weight:600;white-space:nowrap;
+  max-width:62vw;overflow:hidden;text-overflow:ellipsis;cursor:default}
+.src-chip::before{content:"📍";margin-right:3px;filter:grayscale(.1)}
 .tagbar{display:flex;gap:7px;flex-wrap:wrap;margin:10px 0 16px}
 .tagbar .chip{cursor:pointer}
 
@@ -410,6 +415,13 @@ body{background-image:radial-gradient(920px 520px at 10% -10%,var(--glow-1),tran
 @media (prefers-reduced-motion:reduce){
   .view.view-in{animation:none}
   .card,.card.hover,.nav-item,.btn,.theme-btn,.subject-tile,.level-node,.chip{transition:none!important}
+  body::after{animation:none}
+  .btn.primary::after{transition:none;transform:none}
+  .reveal{animation:none}
+  .grid>*{animation:none!important}
+  .card,.card.hover,.nav-item,.btn,.theme-btn,.subject-tile,.level-node,.chip,.brand-mark{
+    transition:none!important;animation:none!important;
+  }
 }
 @media (max-width:760px){
   .theme-btn{padding:4px 8px;font-size:11px}
@@ -417,3 +429,191 @@ body{background-image:radial-gradient(920px 520px at 10% -10%,var(--glow-1),tran
   .nav-item:hover{transform:none}
   .nav-item.active:before{width:2px;height:14px;left:1px}
 }
+
+/* ============================================================
+   中山一号 · 克制高科技视觉升级（追加覆盖，后定义生效）
+   设计来源：_build/hitech-design-spec.md
+   ============================================================ */
+
+/* —— 1. 变量覆盖 / 新增（light + dark 两套）—— */
+:root{
+  --bg:#eef2f8; --surface:#ffffff; --surface-2:#f1f5fb; --line:#dde4ef;
+  --ink:#1b2430; --ink-2:#4d586b; --ink-3:#7e8a9b;
+  --primary:#1f5fbf; --primary-soft:#e7f0fd; --accent:#e2653c;
+  --neon:#13b8cf; --neon-2:#3f7fe0;
+  --glow-1:rgba(31,95,191,.10); --glow-2:rgba(19,184,207,.09); --glow-grid:rgba(31,95,191,.05);
+  --topbar-bg:rgba(255,255,255,.72); --sidebar-bg:rgba(255,255,255,.70);
+  --surface-glass:rgba(255,255,255,.82); --hi-light:rgba(255,255,255,.55);
+  --glow-primary:0 6px 20px -4px rgba(31,95,191,.45);
+}
+[data-theme="dark"]{
+  --bg:#0a0e17; --surface:#121a29; --surface-2:#18212f; --line:#243044;
+  --ink:#e9edf5; --ink-2:#aeb9ca; --ink-3:#7d899c;
+  --primary:#6ea8ff; --primary-soft:#16263f; --accent:#ff9670;
+  --neon:#45d2ff; --neon-2:#9b7bff;
+  --glow-1:rgba(69,210,255,.14); --glow-2:rgba(155,123,255,.10); --glow-grid:rgba(120,170,255,.06);
+  --topbar-bg:rgba(12,18,28,.66); --sidebar-bg:rgba(12,18,28,.60);
+  --surface-glass:rgba(20,28,42,.82); --hi-light:rgba(255,255,255,.06);
+  --glow-primary:0 6px 22px -4px rgba(69,210,255,.40);
+}
+
+/* —— 2. 背景：极淡网格 + 缓慢流动光晕（纯 CSS，中和旧光晕）—— */
+body{background-color:var(--bg);background-image:none;background-attachment:local}
+body::before{
+  content:'';position:fixed;inset:0;z-index:-2;pointer-events:none;
+  background-image:
+    linear-gradient(var(--glow-grid, rgba(31,95,191,.05)) 1px, transparent 1px),
+    linear-gradient(90deg, var(--glow-grid, rgba(31,95,191,.05)) 1px, transparent 1px);
+  background-size:48px 48px;
+  -webkit-mask-image:radial-gradient(130% 120% at 50% -10%, #000 30%, transparent 78%);
+          mask-image:radial-gradient(130% 120% at 50% -10%, #000 30%, transparent 78%);
+  opacity:.8;
+}
+body::after{
+  content:'';position:fixed;inset:-25%;z-index:-1;pointer-events:none;
+  background:
+    radial-gradient(40% 38% at 16% 12%, var(--glow-1), transparent 70%),
+    radial-gradient(36% 34% at 88% 20%, var(--glow-2), transparent 70%);
+  filter:blur(8px);
+  animation:zsHalo 22s ease-in-out infinite alternate;
+}
+@keyframes zsHalo{
+  0%  {transform:translate3d(-3%,-2%,0) scale(1)}
+  50% {transform:translate3d(4%,3%,0)  scale(1.08)}
+  100%{transform:translate3d(-2%,4%,0)  scale(1.04)}
+}
+
+/* —— 3. 玻璃拟态（框架层，全部带 var 兜底防透明）—— */
+.topbar{
+  background:var(--topbar-bg,var(--surface));
+  backdrop-filter:blur(18px) saturate(160%);
+  -webkit-backdrop-filter:blur(18px) saturate(160%);
+  border-bottom:1px solid var(--line);
+  box-shadow:inset 0 1px 0 var(--hi-light), 0 6px 20px rgba(30,45,70,.05);
+}
+[data-theme="dark"] .topbar{
+  box-shadow:inset 0 1px 0 var(--hi-light), 0 8px 26px rgba(0,0,0,.40);
+}
+.sidebar{
+  background:var(--sidebar-bg,var(--surface));
+  backdrop-filter:blur(16px) saturate(150%);
+  -webkit-backdrop-filter:blur(16px) saturate(150%);
+  border-right:1px solid var(--line);
+  box-shadow:inset 1px 0 0 var(--hi-light);
+}
+[data-theme="dark"] .sidebar{box-shadow:inset 1px 0 0 var(--hi-light)}
+.card{
+  background:var(--surface-glass,var(--surface));
+  backdrop-filter:blur(10px);
+  -webkit-backdrop-filter:blur(10px);
+  border:1px solid var(--line);
+  box-shadow:inset 0 1px 0 var(--hi-light), var(--shadow);
+}
+.card.hover:hover{
+  box-shadow:inset 0 1px 0 var(--hi-light), var(--shadow-lg);
+  border-color:var(--border-soft);
+}
+.auth-card,.modal-card{
+  background:var(--surface-glass,var(--surface));
+  backdrop-filter:blur(20px) saturate(160%);
+  -webkit-backdrop-filter:blur(20px) saturate(160%);
+  border:1px solid var(--border-soft);
+  box-shadow:inset 0 1px 0 var(--hi-light), var(--shadow-lg);
+}
+
+/* —— 4. 辉光与流光 —— */
+.btn.primary{
+  background:linear-gradient(135deg,var(--primary-btn),var(--neon-2,var(--primary)));
+  border-color:transparent;color:#fff;
+  box-shadow:var(--glow-primary), inset 0 1px 0 var(--hi-light);
+  position:relative;overflow:hidden;
+  transition:transform .18s ease, box-shadow .18s ease, filter .18s ease;
+}
+.btn.primary:hover{
+  transform:translateY(-1px);
+  box-shadow:inset 0 0 0 1px var(--neon), var(--glow-primary), 0 0 18px -2px var(--glow-1);
+}
+.btn.primary::after{
+  content:'';position:absolute;inset:0;
+  background:linear-gradient(120deg,transparent 32%,rgba(255,255,255,.30) 50%,transparent 68%);
+  transform:translateX(-130%);
+  transition:transform .55s ease;
+}
+.btn.primary:hover::after{transform:translateX(130%)}
+.nav-item.active{
+  background:var(--primary-soft);color:var(--primary);font-weight:700;
+  box-shadow:inset 0 0 0 1px var(--border-soft), 0 0 14px -4px var(--glow-1);
+}
+.nav-item.active:before{
+  background:linear-gradient(var(--primary-btn),var(--neon));
+  box-shadow:0 0 10px -1px var(--glow-1);
+}
+.brand-mark{
+  background:linear-gradient(135deg,var(--primary-btn),var(--neon));
+  box-shadow:0 4px 14px -2px var(--glow-1), inset 0 1px 0 var(--hi-light);
+}
+[data-theme="dark"] .brand-mark{
+  box-shadow:0 4px 16px -2px rgba(69,210,255,.30), inset 0 1px 0 var(--hi-light);
+}
+/* 深色模式让新端点（紫/青）生效，覆盖旧写死蓝 */
+[data-theme="dark"] .btn.primary{background:linear-gradient(135deg,var(--primary-btn),var(--neon-2))}
+[data-theme="dark"] .brand-mark{background:linear-gradient(135deg,var(--primary-btn),var(--neon))}
+
+/* —— 5. 动效（复用现有 zsRise）—— */
+.reveal{animation:zsRise .26s cubic-bezier(.2,.7,.3,1) both}
+.card.hover{transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease}
+.card.hover:hover{transform:translateY(-2px)}
+.nav-item{transition:background .18s ease, color .18s ease, transform .18s ease}
+.btn{transition:background .16s ease, border-color .16s ease, transform .12s ease, box-shadow .18s ease}
+
+/* —— 6. 渐变文字（克制的点睛），用于品牌名 —— */
+.h-grad{
+  background:linear-gradient(100deg,var(--ink) 0%,var(--primary) 70%,var(--neon-2) 100%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;
+}
+.brand-text b{font-weight:800;
+  background:linear-gradient(100deg,var(--ink) 0%,var(--primary) 68%,var(--neon-2) 100%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;}
+
+/* —— 7. 移动端补充（≤760px）：修底栏竖边 + 关 hover 位移 —— */
+@media (max-width:760px){
+  body::before{opacity:.55}
+  body::after{filter:blur(6px)}
+  .sidebar{border-right:0;border-top:1px solid var(--line);box-shadow:inset 0 1px 0 var(--hi-light)}
+  .nav-item:hover{transform:none}
+  .btn.primary:hover{transform:none}
+}
+
+/* —— 8. 粒子背景画布 + 卡片错峰入场（"炸"的核心） —— */
+#bgfx{position:fixed;inset:0;z-index:-3;width:100%;height:100%;pointer-events:none}
+.grid>*{animation:zsRise .28s cubic-bezier(.2,.7,.3,1) both}
+.grid>*:nth-child(1){animation-delay:.02s}
+.grid>*:nth-child(2){animation-delay:.06s}
+.grid>*:nth-child(3){animation-delay:.10s}
+.grid>*:nth-child(4){animation-delay:.14s}
+.grid>*:nth-child(5){animation-delay:.18s}
+.grid>*:nth-child(6){animation-delay:.22s}
+.grid>*:nth-child(7){animation-delay:.26s}
+.grid>*:nth-child(8){animation-delay:.30s}
+.grid>*:nth-child(n+9){animation-delay:.30s}
+
+
+/* ===== 学习路线图（学科页） ===== */
+.rmap { position: relative; margin-top: 14px; padding-left: 34px; }
+.rmap::before { content: ''; position: absolute; left: 11px; top: 8px; bottom: 8px;
+  width: 2px; background: var(--line, #e3e6ee); border-radius: 2px; }
+.rmap-stage { position: relative; padding: 0 0 18px; }
+.rmap-stage:last-child { padding-bottom: 2px; }
+.rmap-dot { position: absolute; left: -34px; top: 2px; width: 24px; height: 24px;
+  border-radius: 50%; background: var(--accent, #1f5fbf); color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 700; box-shadow: 0 0 0 4px var(--card, #fff); }
+.rmap-title { font-weight: 700; margin: 0 0 2px; }
+.rmap-desc { font-size: 12.5px; color: var(--muted, #7a8092); margin: 0 0 8px; }
+.rmap-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.rmap-chip { display: inline-flex; align-items: center; gap: 6px;
+  border: 1px solid var(--line, #e3e6ee); border-radius: 999px;
+  padding: 3px 8px 3px 10px; font-size: 12.5px; background: var(--soft, #f6f7fb); }
+.rmap-chip b { font-weight: 600; }
+[data-theme="dark"] .rmap-chip { background: rgba(255,255,255,.05); }
+[data-theme="dark"] .rmap-dot { box-shadow: 0 0 0 4px var(--card, #1c2130); }

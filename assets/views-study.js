@@ -211,6 +211,28 @@
       linkCard('语音复盘', '口述本周所学', 'companion/' + id, s.color) +
       '</div>';
 
+    /* 学习路线图（data/roadmaps.js）：按先修关系给章节排出建议顺序，
+       每章显示真实题量，点「练」直达该章练习。静态预置、离线可用。 */
+    var rmap = window.ZS_ROADMAPS && window.ZS_ROADMAPS[id];
+    if (rmap && rmap.length) {
+      html += '<div class="card mb"><div class="row between" style="gap:10px;flex-wrap:wrap">' +
+        '<div><h3 style="margin:0">学习路线图 · 建议顺序</h3>' +
+        '<p class="small muted" style="margin:4px 0 0">按先修关系排列的复习路线，可与学校进度对照使用；点章节「练」直达刷题。</p></div>' +
+        '<span class="chip">' + rmap.length + ' 个阶段</span></div>' +
+        '<div class="rmap">' + rmap.map(function (st, si) {
+          var chips = (st.chapters || []).filter(function (c) { return s.chapters.indexOf(c) >= 0; })
+            .map(function (c) {
+              var n = qs.filter(function (q) { return q._chapter === c; }).length;
+              return '<span class="rmap-chip"><b>' + esc(c) + '</b><span class="muted">' + n + ' 题</span>' +
+                '<button class="btn sm" data-chapter="' + esc(c) + '" style="margin-left:2px">练</button></span>';
+            }).join('');
+          return '<div class="rmap-stage"><span class="rmap-dot" style="background:' + s.color + '">' + (si + 1) + '</span>' +
+            '<div class="rmap-title">' + esc(st.t) + '</div>' +
+            '<p class="rmap-desc">' + esc(st.desc || '') + '</p>' +
+            '<div class="rmap-chips">' + chips + '</div></div>';
+        }).join('') + '</div></div>';
+    }
+
     /* 本科资料：资料本体按 subject 挂进本学科入口，不再只堆在「资料库 → 学科资料」里。
        语文页因此能直接看到作文素材/作文指导，数学化学页能看到二轮专题，英语页能看到词汇。 */
     html += '<div class="card mb"><div class="row between" style="gap:10px;flex-wrap:wrap">' +
@@ -228,7 +250,7 @@
     html += '<div class="grid g2">' +
       '<div class="card"><h3>知识章节</h3><p class="small muted">点任一章节，直接筛选该章节相关题目开练。</p>' +
       s.chapters.map(function (c, i) {
-        var n = qs.filter(function (q) { return (q.tags || []).join('').indexOf(c.slice(0, 2)) >= 0 || (q.source || '').indexOf(c.slice(0, 2)) >= 0; }).length;
+        var n = qs.filter(function (q) { return q._chapter === c; }).length;
         return '<div class="row between" style="padding:8px 0;border-bottom:1px solid var(--line)">' +
           '<span>' + esc(c) + '</span><span class="row"><span class="chip">' + n + ' 题</span>' +
           '<button class="btn sm" data-chapter="' + esc(c) + '">练这个</button></span></div>';
@@ -331,11 +353,11 @@
       qids = A.pick(S.filter(subject, state.region), 10).map(function (q) { return q.id; }); title = '自由练习';
     } else if (mode === 'chapter') {
       var ch = state.chapterFilter || '';
-      qids = A.pick(S.q(subject).filter(function (q) {
-        return (q.tags || []).join('').indexOf(ch.slice(0, 2)) >= 0 || (q.source || '').indexOf(ch.slice(0, 2)) >= 0;
-      }), 10).map(function (q) { return q.id; });
+      var chq = S.byChapter(subject, ch);
+      var take = Math.min(20, chq.length) || 10;
+      qids = A.pick(chq, take).map(function (q) { return q.id; });
       qids = qids.length ? qids : A.pick(S.q(subject), 10).map(function (q) { return q.id; });
-      title = '章节练习 · ' + ch;
+      title = '章节练习 · ' + ch + (chq.length ? '（本卷 ' + chq.length + ' 题）' : '');
     } else if (mode === 'wrong') {
       var ws = await S.query('wrong_book', function (w) { return w.subject === subject && !w.mastered; });
       qids = ws.slice(0, 15).map(function (w) { return w.qid; }); title = '错题重做';
@@ -364,6 +386,7 @@
       '<span class="small">连击 <b class="combo">' + state.combo + '</b></span></div></div>';
 
     html += '<div class="card"><div class="row mb">' + typeChip(q) +
+      '<span class="chip">' + esc(q._chapter || '综合') + '</span>' +
       '<span class="chip warn">难度 ' + (q.difficulty || 3) + '/5</span><span class="chip">' + (q.score || 5) + ' 分</span></div>' +
       A.qStemHtml(q);
     if (q.type === 'choice') {
@@ -378,7 +401,7 @@
     }
     html += '<div class="row mt"><button class="btn primary" id="p-submit">提交作答</button>' +
       '<button class="btn ghost" id="p-skip">跳过这题</button><span class="spacer"></span>' +
-      '<span class="small muted">' + esc(q.source || '开源题库') + '</span></div>' +
+      '<span class="src-chip" title="题目出处">出处 · ' + esc(q.source || '本站题库') + '</span></div>' +
       '<div id="p-feedback"></div></div>';
     A.render(html);
     A.ensureKatex().then(function () { A.renderMath(el('view')); });
@@ -435,6 +458,7 @@
       '<div class="row mb">' + jtxt + '<span class="spacer"></span><span class="small muted">标准答案</span></div>' +
       '<div class="md-body" id="std-answer">' + esc(answerText(q)) + '</div>' +
       (q.analysis ? '<div class="divider"></div><div class="small"><b>题库解析</b><div class="md-body" id="std-analysis">' + esc(q.analysis) + '</div></div>' : '') +
+      '<div class="divider"></div><div class="row between"><span class="small muted">出处</span><b class="small">' + esc(q.source || '本站题库') + '</b></div>' +
       '</div>';
 
     /* AI 即时指导（每题提交后自动触发；未填 Key 走内置离线教练） */

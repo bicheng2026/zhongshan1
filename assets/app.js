@@ -172,6 +172,31 @@
       return o;
     });
   }
+  /* 章节分类器：给定科目与题，返回所属章节名（或 ''）。
+     先按标签精确/包含匹配（导入题、策题都带章节标签，命中率最高），
+     再按关键词打分；关键词表见 data/chapters.js。 */
+  window.ZS_CLASSIFY = function (subject, q) {
+    var map = window.ZS_CHAPTERS && window.ZS_CHAPTERS[subject];
+    if (!map) return '';
+    var tags = q.tags || [];
+    for (var i = 0; i < tags.length; i++) {
+      var t = tags[i];
+      if (map[t]) return t;
+      for (var c in map) { if (c.indexOf(t) >= 0 || t.indexOf(c) >= 0) return c; }
+    }
+    var opts = (q.options || []).map(function (o) { return (o && (o.text != null ? o.text : o)) || ''; }).join(' ');
+    var text = [q.stem, q.analysis, q.source, q.answer, q.paper, q.region, opts].join(' ');
+    var best = '', bestScore = 0;
+    for (var ch in map) {
+      var score = 0, kws = map[ch];
+      for (var k = 0; k < kws.length; k++) {
+        var kw = kws[k]; if (!kw) continue;
+        if (text.indexOf(kw) >= 0) score += (kw.length >= 3 ? 2 : 1);
+      }
+      if (score > bestScore) { bestScore = score; best = ch; }
+    }
+    return best;
+  };
   function normalizeSubject(subject) {
     /* 导入题库（q-extra.js）是静态加载，q-<subject>.js 是按需异步加载。
        必须等本科题库到位后再合并，否则会被 q-<subject>.js 的赋值整个覆盖。 */
@@ -184,6 +209,7 @@
       seen[q.id] = 1; return true;
     });
     (window.ZS_Q[subject] || []).forEach(fixOptions);
+    (window.ZS_Q[subject] || []).forEach(function (q) { if (!q._chapter) q._chapter = window.ZS_CLASSIFY(subject, q); });
   }
   var Store = {
     /* 按需动态加载某一科题库；文件不存在时用 seed.js 的内置样例题 */
@@ -203,6 +229,21 @@
       return pending[subject];
     },
     q: function (subject) { return (window.ZS_Q && window.ZS_Q[subject]) || []; },
+    /* 按章节取题（依赖 normalizeSubject 盖章的 _chapter） */
+    byChapter: function (subject, chapter) {
+      return Store.q(subject).filter(function (q) { return q._chapter === chapter; });
+    },
+    /* 某科各章节题量（全章 + 未分类），供章节卡片显示真实数字 */
+    chapterCounts: function (subject) {
+      var m = window.ZS_SUBJECT_MAP && window.ZS_SUBJECT_MAP[subject];
+      var out = { __uncat: 0 };
+      (m ? m.chapters : []).forEach(function (c) { out[c] = 0; });
+      Store.q(subject).forEach(function (q) {
+        if (q._chapter && out[q._chapter] !== undefined) out[q._chapter]++;
+        else out.__uncat++;
+      });
+      return out;
+    },
     /* 首页未加载题库时从轻量 q-meta.js 读真实题量，不必为了显示数字把 4.6MB 全下下来 */
     count: function (subject) {
       if (loaded[subject]) return Store.q(subject).length;
