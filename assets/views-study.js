@@ -247,6 +247,19 @@
         : A.emptyBox('本科暂无学科资料', '跨学科的通用学法与工具仍在「资料库 → 学科资料」。')) +
       '</div>';
 
+    /* 高考词库（data/vocab.js，kajweb/dict 3808★）：英语学科页内置可搜索词表。
+       首屏只渲染 60 词，搜索走前端过滤；零外部请求，离线可用。 */
+    if (id === 'english' && window.ZS_VOCAB && window.ZS_VOCAB.gaokao) {
+      var V = window.ZS_VOCAB.gaokao;
+      html += '<div class="card mb" id="vocab-card"><div class="row between" style="gap:10px;flex-wrap:wrap">' +
+        '<div><h3 style="margin:0">高考词库 · ' + V.length + ' 词</h3>' +
+        '<p class="small muted" style="margin:4px 0 0">来源 kajweb/dict（3808★ 开源词书库），含音标、释义、短语与例句；输入单词或释义关键词搜索。</p></div>' +
+        '<input id="vocab-q" class="input" placeholder="搜单词 / 释义…" style="max-width:220px">' +
+        '</div><div id="vocab-list" class="mt"></div>' +
+        '<div class="row mt"><button class="btn sm" id="vocab-more">加载更多</button>' +
+        '<span class="small muted" id="vocab-stat"></span></div></div>';
+    }
+
     html += '<div class="grid g2">' +
       '<div class="card"><h3>知识章节</h3><p class="small muted">点任一章节，直接筛选该章节相关题目开练。</p>' +
       s.chapters.map(function (c, i) {
@@ -283,6 +296,40 @@
         go('practice/' + id + '/chapter');
       };
     });
+
+    /* 高考词库：渲染 / 搜索 / 加载更多（仅英语页存在 vocab-card 时绑定） */
+    if (el('vocab-card')) {
+      var VC = window.ZS_VOCAB.gaokao, vShown = 0, VSTEP = 60;
+      function vocabRow(w) {
+        var tran = (w.tran || []).map(function (t) { return (t.pos ? t.pos + '. ' : '') + t.cn; }).join('；');
+        var extra = (w.phr || []).map(function (p) { return esc(p.en) + ' ' + esc(p.cn); }).join(' ｜ ');
+        return '<div style="padding:8px 0;border-bottom:1px solid var(--line)">' +
+          '<div class="row between" style="gap:8px;flex-wrap:wrap"><b>' + esc(w.w) + '</b>' +
+          '<span class="small muted">' + esc(w.us || w.uk || '') + '</span></div>' +
+          '<div class="small">' + esc(tran) + '</div>' +
+          (extra ? '<div class="small muted">' + extra + '</div>' : '') +
+          (w.sent ? '<div class="small muted">' + esc(w.sent.en) + '<br>' + esc(w.sent.cn) + '</div>' : '') +
+          '</div>';
+      }
+      function vocabPaint() {
+        var kw = (el('vocab-q').value || '').trim().toLowerCase();
+        var src = kw ? VC.filter(function (w) {
+          return w.w.toLowerCase().indexOf(kw) >= 0 ||
+            (w.tran || []).some(function (t) { return (t.cn || '').toLowerCase().indexOf(kw) >= 0; });
+        }) : VC;
+        if (kw) vShown = 0;               // 新搜索从头渲染
+        var upto = kw ? src.length : Math.min(vShown + VSTEP, src.length);
+        vShown = kw ? upto : upto;
+        el('vocab-list').innerHTML = src.length
+          ? src.slice(0, vShown).map(vocabRow).join('')
+          : A.emptyBox('没有匹配的词', '换个关键词试试');
+        el('vocab-stat').textContent = '显示 ' + Math.min(vShown, src.length) + ' / ' + src.length + ' 词';
+        el('vocab-more').style.display = vShown < src.length ? '' : 'none';
+      }
+      el('vocab-more').onclick = function () { vShown += VSTEP; vocabPaint(); };
+      el('vocab-q').oninput = vocabPaint;
+      vocabPaint();
+    }
   });
   function linkCard(title, desc, route, color) {
     return '<div class="card hover pad-s" data-link="' + route + '"><div class="strong" style="color:' + color + '">' + title + '</div>' +

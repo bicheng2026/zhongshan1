@@ -70,4 +70,4 @@ window.ZS_ACHIEVEMENTS = [
 
 /* 每科 10 关，每关 8 题；关卡按难度递进，题目由 buildLevels() 从题库切分 */
 window.ZS_LEVELS_PER_SUBJECT = 10;
-window.ZS_QUESTIONS_PER_LEVEL = 8;
+window.ZS_QUESTIONS_PER_LEVEL = 15;
