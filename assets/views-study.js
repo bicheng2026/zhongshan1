@@ -205,7 +205,7 @@
       '<span class="chip">' + papers.length + ' 套整卷</span><span class="chip">' + mats.length + ' 份学科资料</span></div></div></div>';
 
     html += '<div class="grid g4 mb">' +
-      linkCard('进入闯关', '十关递进，逐题 AI 指导', 'quest/' + id, s.color) +
+      linkCard('进入闯关', '十关递进，答完点「解答」看讲解', 'quest/' + id, s.color) +
       linkCard('本科整卷', '组卷 / 下载 / 模考', 'papers/' + id, s.color) +
       linkCard('每日一练', '一次导出七天包', 'daily/' + id, s.color) +
       linkCard('语音复盘', '口述本周所学', 'companion/' + id, s.color) +
@@ -372,7 +372,7 @@
     html += '</div>';
 
     html += '<div class="card mt"><div class="row between"><div><h3 style="margin:0">自由练习</h3>' +
-      '<p class="small muted" style="margin:4px 0 0">不按关卡，从本科题库随机抽 10 题，答完立刻出 AI 指导。</p></div>' +
+      '<p class="small muted" style="margin:4px 0 0">不按关卡，从本科题库随机抽 10 题；每题提交后可点「解答」看大模型讲解。</p></div>' +
       '<button class="btn primary" id="q-free">随机 10 题</button></div></div>';
 
     A.render(html);
@@ -508,10 +508,12 @@
       '<div class="divider"></div><div class="row between"><span class="small muted">出处</span><b class="small">' + esc(q.source || '本站题库') + '</b></div>' +
       '</div>';
 
-    /* AI 即时指导（每题提交后自动触发；未填 Key 走内置离线教练） */
-    fb += '<div class="ai-panel"><div class="ai-head"><span>✦</span> 大模型即时指导' +
-      '<span class="spacer"></span><button class="btn sm ghost" id="ai-regen">重新生成</button></div>' +
-      '<div class="md-body" id="ai-out"><span class="muted">正在组织诊断…</span></div></div>' +
+    /* 大模型解答：不在提交后自动提问 —— 学生点了「解答」才向模型提问，
+       并且只拿最终结果（finalOnly），中间推导过程一律不上屏。 */
+    fb += '<div class="ai-panel"><div class="ai-head"><span>✦</span> 大模型解答' +
+      '<span class="spacer"></span><button class="btn sm primary" id="ai-ask">解答</button>' +
+      '<button class="btn sm ghost" id="ai-regen" hidden>重新生成</button></div>' +
+      '<div class="md-body" id="ai-out">点「解答」让大模型讲这道题。不点就不会提问，也不消耗模型额度。</div></div>' +
       '<div class="row mt"><button class="btn primary" id="p-next">下一题 →</button>' +
       '<button class="btn ghost" id="p-to-wrong">看错题本</button></div>';
     el('p-feedback').innerHTML = fb;
@@ -536,13 +538,18 @@
     var spec = window.ZS_PROMPTS.answerCoach({ subject: ps.subject, question: q,
       userAnswer: ans, correct: correct === true });
     async function runAI() {
-      el('ai-out').textContent = '';
-      try { await A.aiInto(spec, el('ai-out'), { scene: 'answer', subject: ps.subject,
-        question: q, userAnswer: ans, correct: correct === true }); }
-      catch (e) { toast('大模型调用失败：' + e.message, 'err'); }
+      var out = el('ai-out'); if (!out) return;          // 学生已翻下一题
+      var ask = el('ai-ask'), reg = el('ai-regen');
+      if (ask) { ask.disabled = true; ask.textContent = '解答中…'; }
+      try {
+        await A.aiInto(spec, out, { scene: 'answer', subject: ps.subject,
+          question: q, userAnswer: ans, correct: correct === true, finalOnly: true });
+      } catch (e) { toast('大模型调用失败：' + e.message, 'err'); }
+      if (ask) { ask.disabled = false; ask.textContent = '解答'; ask.hidden = true; }
+      if (reg) reg.hidden = false;
     }
+    el('ai-ask').onclick = runAI;
     el('ai-regen').onclick = runAI;
-    runAI();
 
     el('p-next').onclick = function () { ps.idx++; ps.locked = false; drawPractice(); };
     el('p-to-wrong').onclick = function () { go('wrong'); };
