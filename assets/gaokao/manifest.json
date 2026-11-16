@@ -1118,5 +1118,1501 @@
   "year": 2024,
   "repo": "Serennity007/guizhou-exam-papers",
   "path": "高三/物理/周考(1).pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2020新高考全国Ⅰ卷语文.pdf",
+  "bytes": 6410782,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/语文/全国/新高考全国Ⅰ卷/2020_语文_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2020新高考全国Ⅱ卷语文.pdf",
+  "bytes": 7472289,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/语文/全国/新高考全国Ⅱ卷/2020_语文_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2021新高考全国Ⅰ卷语文.pdf",
+  "bytes": 6731809,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/语文/全国/新高考全国Ⅰ卷/2021_语文_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2021新高考全国Ⅱ卷语文.pdf",
+  "bytes": 12538677,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/语文/全国/新高考全国Ⅱ卷/2021_语文_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2022新高考全国Ⅰ卷语文.pdf",
+  "bytes": 5703415,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/语文/全国/新高考全国Ⅰ卷/2022_语文_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2022新高考全国Ⅱ卷语文.pdf",
+  "bytes": 6706490,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/语文/全国/新高考全国Ⅱ卷/2022_语文_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2023新高考全国Ⅰ卷语文.pdf",
+  "bytes": 5845782,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/语文/全国/新高考全国Ⅰ卷/2023_语文_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2023新高考全国Ⅱ卷语文.pdf",
+  "bytes": 5709570,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/语文/全国/新高考全国Ⅱ卷/2023_语文_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2024新高考全国Ⅰ卷语文.pdf",
+  "bytes": 5464151,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/语文/全国/新高考全国Ⅰ卷/2024_语文_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2024新高考全国Ⅱ卷语文.pdf",
+  "bytes": 6036413,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/语文/全国/新高考全国Ⅱ卷/2024_语文_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2025新高考全国Ⅰ卷语文.pdf",
+  "bytes": 835616,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/语文/全国/新高考全国Ⅰ卷/2025_语文_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2025新高考全国Ⅱ卷语文.pdf",
+  "bytes": 719421,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/语文/全国/新高考全国Ⅱ卷/2025_语文_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2026新高考全国Ⅰ卷语文.pdf",
+  "bytes": 1503437,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/语文/全国/新高考全国Ⅰ卷/2026_语文_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "chinese",
+  "file": "chinese/2026新高考全国Ⅱ卷语文.pdf",
+  "bytes": 649633,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/语文/全国/新高考全国Ⅱ卷/2026_语文_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2020新高考全国Ⅰ卷英语.pdf",
+  "bytes": 169974,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/英语/全国/新高考全国Ⅰ卷/2020_英语_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2020新高考全国Ⅱ卷英语.pdf",
+  "bytes": 278814,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/英语/全国/新高考全国Ⅱ卷/2020_英语_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2021新高考全国Ⅰ卷英语.pdf",
+  "bytes": 166332,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/英语/全国/新高考全国Ⅰ卷/2021_英语_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2021新高考全国Ⅱ卷英语.pdf",
+  "bytes": 129137,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/英语/全国/新高考全国Ⅱ卷/2021_英语_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2022新高考全国Ⅰ卷英语.pdf",
+  "bytes": 193591,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/英语/全国/新高考全国Ⅰ卷/2022_英语_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2022新高考全国Ⅱ卷英语.pdf",
+  "bytes": 167754,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/英语/全国/新高考全国Ⅱ卷/2022_英语_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2023新高考全国Ⅰ卷英语.pdf",
+  "bytes": 159536,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/英语/全国/新高考全国Ⅰ卷/2023_英语_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2023新高考全国Ⅱ卷英语.pdf",
+  "bytes": 181321,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/英语/全国/新高考全国Ⅱ卷/2023_英语_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2024新高考全国Ⅰ卷英语.pdf",
+  "bytes": 190546,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/英语/全国/新高考全国Ⅰ卷/2024_英语_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2024新高考全国Ⅱ卷英语.pdf",
+  "bytes": 194124,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/英语/全国/新高考全国Ⅱ卷/2024_英语_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2025新高考全国Ⅰ卷英语.pdf",
+  "bytes": 845248,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/英语/全国/新高考全国Ⅰ卷/2025_英语_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2025新高考全国Ⅱ卷英语.pdf",
+  "bytes": 414718,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/英语/全国/新高考全国Ⅱ卷/2025_英语_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2026新高考全国Ⅰ卷英语.pdf",
+  "bytes": 303051,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/英语/全国/新高考全国Ⅰ卷/2026_英语_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "english",
+  "file": "english/2026新高考全国Ⅱ卷英语.pdf",
+  "bytes": 14390106,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/英语/全国/新高考全国Ⅱ卷/2026_英语_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2020北京卷政治.pdf",
+  "bytes": 709983,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/政治/北京/北京卷/2020_政治_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2020天津卷政治.pdf",
+  "bytes": 573268,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/政治/天津/天津卷/2020_政治_天津卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2020山东卷政治.pdf",
+  "bytes": 732120,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/政治/山东/山东卷/2020_政治_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2020浙江卷政治.pdf",
+  "bytes": 319019,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/政治/浙江/浙江卷/2020_政治_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2020海南卷政治.pdf",
+  "bytes": 974447,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/政治/海南/海南卷/2020_政治_海南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021北京卷政治.pdf",
+  "bytes": 2884980,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/北京/北京卷/2021_政治_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021天津卷政治.pdf",
+  "bytes": 496746,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/天津/天津卷/2021_政治_天津卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021山东卷政治.pdf",
+  "bytes": 870818,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/山东/山东卷/2021_政治_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021广东卷政治.pdf",
+  "bytes": 379381,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/广东/广东卷/2021_政治_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021江苏卷政治.pdf",
+  "bytes": 3216769,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/江苏/江苏卷/2021_政治_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021河北卷政治.pdf",
+  "bytes": 362375,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/河北/河北卷/2021_政治_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021浙江卷政治.pdf",
+  "bytes": 547295,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/浙江/浙江卷/2021_政治_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021海南卷政治.pdf",
+  "bytes": 496466,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/海南/海南卷/2021_政治_海南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021湖北卷政治.pdf",
+  "bytes": 792536,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/湖北/湖北卷/2021_政治_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021湖南卷政治.pdf",
+  "bytes": 374809,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/湖南/湖南卷/2021_政治_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021福建卷政治.pdf",
+  "bytes": 588712,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/福建/福建卷/2021_政治_福建卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2021辽宁卷政治.pdf",
+  "bytes": 804279,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/政治/辽宁/辽宁卷/2021_政治_辽宁卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022北京卷政治.pdf",
+  "bytes": 447750,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/北京/北京卷/2022_政治_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022天津卷政治.pdf",
+  "bytes": 295351,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/天津/天津卷/2022_政治_天津卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022山东卷政治.pdf",
+  "bytes": 429592,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/山东/山东卷/2022_政治_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022广东卷政治.pdf",
+  "bytes": 662049,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/广东/广东卷/2022_政治_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022江苏卷政治.pdf",
+  "bytes": 285770,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/江苏/江苏卷/2022_政治_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022浙江卷政治.pdf",
+  "bytes": 317928,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/浙江/浙江卷/2022_政治_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022海南卷政治.pdf",
+  "bytes": 307155,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/海南/海南卷/2022_政治_海南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022湖北卷政治.pdf",
+  "bytes": 211471,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/湖北/湖北卷/2022_政治_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022湖南卷政治.pdf",
+  "bytes": 859210,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/湖南/湖南卷/2022_政治_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022福建卷政治.pdf",
+  "bytes": 752264,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/福建/福建卷/2022_政治_福建卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022辽宁卷政治.pdf",
+  "bytes": 346162,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/辽宁/辽宁卷/2022_政治_辽宁卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2022重庆卷政治.pdf",
+  "bytes": 431399,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/政治/重庆/重庆卷/2022_政治_重庆卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023北京卷政治.pdf",
+  "bytes": 1305767,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/北京/北京卷/2023_政治_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023天津卷政治.pdf",
+  "bytes": 468123,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/天津/天津卷/2023_政治_天津卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023山东卷政治.pdf",
+  "bytes": 727544,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/山东/山东卷/2023_政治_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023广东卷政治.pdf",
+  "bytes": 334857,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/广东/广东卷/2023_政治_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023江苏卷政治.pdf",
+  "bytes": 1387189,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/江苏/江苏卷/2023_政治_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023河北卷政治.pdf",
+  "bytes": 270002,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/河北/河北卷/2023_政治_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023浙江卷政治.pdf",
+  "bytes": 565087,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/浙江/浙江卷/2023_政治_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023海南卷政治.pdf",
+  "bytes": 351769,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/海南/海南卷/2023_政治_海南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023湖北卷政治.pdf",
+  "bytes": 517739,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/湖北/湖北卷/2023_政治_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023湖南卷政治.pdf",
+  "bytes": 756681,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/湖南/湖南卷/2023_政治_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023福建卷政治.pdf",
+  "bytes": 407003,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/福建/福建卷/2023_政治_福建卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023辽宁卷政治.pdf",
+  "bytes": 814389,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/辽宁/辽宁卷/2023_政治_辽宁卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2023重庆卷政治.pdf",
+  "bytes": 384665,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/政治/重庆/重庆卷/2023_政治_重庆卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2024北京卷政治.pdf",
+  "bytes": 884022,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/政治/北京/北京卷/2024_政治_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2024安徽卷政治.pdf",
+  "bytes": 330124,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/政治/安徽/安徽卷/2024_政治_安徽卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2024山东卷政治.pdf",
+  "bytes": 743360,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/政治/山东/山东卷/2024_政治_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2024广东卷政治.pdf",
+  "bytes": 749472,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/政治/广东/广东卷/2024_政治_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2024浙江卷政治.pdf",
+  "bytes": 504274,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/政治/浙江/浙江卷/2024_政治_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2024湖南卷政治.pdf",
+  "bytes": 756185,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/政治/湖南/湖南卷/2024_政治_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2024辽宁卷政治.pdf",
+  "bytes": 976486,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/政治/吉林/辽宁卷/2024_政治_吉林辽宁卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025云南卷政治.pdf",
+  "bytes": 427690,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/云南/云南卷/2025_政治_云南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025内蒙古卷政治.pdf",
+  "bytes": 1340398,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/内蒙古/内蒙古卷/2025_政治_内蒙古卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025北京卷政治.pdf",
+  "bytes": 1128656,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/北京/北京卷/2025_政治_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025安徽卷政治.pdf",
+  "bytes": 446165,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/安徽/安徽卷/2025_政治_安徽卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025山东卷政治.pdf",
+  "bytes": 4324093,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/山东/山东卷/2025_政治_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025广东卷政治.pdf",
+  "bytes": 553999,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/广东/广东卷/2025_政治_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025江苏卷政治.pdf",
+  "bytes": 623591,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/江苏/江苏卷/2025_政治_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025河北卷政治.pdf",
+  "bytes": 492386,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/河北/河北卷/2025_政治_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025河南卷政治.pdf",
+  "bytes": 849726,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/河南/河南卷/2025_政治_河南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025湖北卷政治.pdf",
+  "bytes": 727334,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/湖北/湖北卷/2025_政治_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2025湖南卷政治.pdf",
+  "bytes": 728434,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/政治/湖南/湖南卷/2025_政治_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026云南卷政治.pdf",
+  "bytes": 637556,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/云南/云南卷/2026_政治_云南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026北京卷政治.pdf",
+  "bytes": 256033,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/北京/北京卷/2026_政治_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026山东卷政治.pdf",
+  "bytes": 811169,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/山东/山东卷/2026_政治_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026新高考全国Ⅰ卷政治.pdf",
+  "bytes": 201203,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/全国/新高考全国Ⅰ卷/2026_政治_新高考全国Ⅰ卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026新高考全国Ⅱ卷政治.pdf",
+  "bytes": 207185,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/全国/新高考全国Ⅱ卷/2026_政治_新高考全国Ⅱ卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026河北卷政治.pdf",
+  "bytes": 539014,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/河北/河北卷/2026_政治_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026河南卷政治.pdf",
+  "bytes": 2073615,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/河南/河南卷/2026_政治_河南卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026湖北卷政治.pdf",
+  "bytes": 570626,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/湖北/湖北卷/2026_政治_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "politics",
+  "file": "politics/2026陕西卷政治.pdf",
+  "bytes": 535731,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/政治/宁夏/陕西卷/2026_政治_宁夏陕西卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2020上海卷化学.pdf",
+  "bytes": 3693621,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/化学/上海/上海卷/2020_化学_上海卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2020北京卷化学.pdf",
+  "bytes": 731861,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/化学/北京/北京卷/2020_化学_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2020天津卷化学.pdf",
+  "bytes": 921958,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/化学/天津/天津卷/2020_化学_天津卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2020山东卷化学.pdf",
+  "bytes": 905912,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/化学/山东/山东卷/2020_化学_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2020浙江卷化学.pdf",
+  "bytes": 740749,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/化学/浙江/浙江卷/2020_化学_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2020海南卷化学.pdf",
+  "bytes": 531050,
+  "year": 2020,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2020/化学/海南/海南卷/2020_化学_海南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021上海卷化学.pdf",
+  "bytes": 570293,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/上海/上海卷/2021_化学_上海卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021北京卷化学.pdf",
+  "bytes": 894290,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/北京/北京卷/2021_化学_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021天津卷化学.pdf",
+  "bytes": 806311,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/天津/天津卷/2021_化学_天津卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021山东卷化学.pdf",
+  "bytes": 931230,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/山东/山东卷/2021_化学_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021广东卷化学.pdf",
+  "bytes": 764184,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/广东/广东卷/2021_化学_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021江苏卷化学.pdf",
+  "bytes": 1190910,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/江苏/江苏卷/2021_化学_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021河北卷化学.pdf",
+  "bytes": 1020022,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/河北/河北卷/2021_化学_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021浙江卷化学.pdf",
+  "bytes": 798214,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/浙江/浙江卷/2021_化学_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021海南卷化学.pdf",
+  "bytes": 398374,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/海南/海南卷/2021_化学_海南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021湖北卷化学.pdf",
+  "bytes": 1215961,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/湖北/湖北卷/2021_化学_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021湖南卷化学.pdf",
+  "bytes": 1333712,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/湖南/湖南卷/2021_化学_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021福建卷化学.pdf",
+  "bytes": 457405,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/福建/福建卷/2021_化学_福建卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021辽宁卷化学.pdf",
+  "bytes": 1533751,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/辽宁/辽宁卷/2021_化学_辽宁卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2021重庆卷化学.pdf",
+  "bytes": 428841,
+  "year": 2021,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2021/化学/重庆/重庆卷/2021_化学_重庆卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022上海卷化学.pdf",
+  "bytes": 348429,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/上海/上海卷/2022_化学_上海卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022北京卷化学.pdf",
+  "bytes": 699428,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/北京/北京卷/2022_化学_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022天津卷化学.pdf",
+  "bytes": 554762,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/天津/天津卷/2022_化学_天津卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022山东卷化学.pdf",
+  "bytes": 1496501,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/山东/山东卷/2022_化学_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022广东卷化学.pdf",
+  "bytes": 2276720,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/广东/广东卷/2022_化学_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022江苏卷化学.pdf",
+  "bytes": 793136,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/江苏/江苏卷/2022_化学_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022河北卷化学.pdf",
+  "bytes": 637377,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/河北/河北卷/2022_化学_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022浙江卷化学.pdf",
+  "bytes": 1184586,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/浙江/浙江卷/2022_化学_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022海南卷化学.pdf",
+  "bytes": 715372,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/海南/海南卷/2022_化学_海南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022湖北卷化学.pdf",
+  "bytes": 906005,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/湖北/湖北卷/2022_化学_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022湖南卷化学.pdf",
+  "bytes": 1029603,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/湖南/湖南卷/2022_化学_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022福建卷化学.pdf",
+  "bytes": 1053536,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/福建/福建卷/2022_化学_福建卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022辽宁卷化学.pdf",
+  "bytes": 771118,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/辽宁/辽宁卷/2022_化学_辽宁卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2022重庆卷化学.pdf",
+  "bytes": 1821451,
+  "year": 2022,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2022/化学/重庆/重庆卷/2022_化学_重庆卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023上海卷化学.pdf",
+  "bytes": 611335,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/上海/上海卷/2023_化学_上海卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023北京卷化学.pdf",
+  "bytes": 1060989,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/北京/北京卷/2023_化学_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023天津卷化学.pdf",
+  "bytes": 282869,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/天津/天津卷/2023_化学_天津卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023山东卷化学.pdf",
+  "bytes": 1144936,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/山东/山东卷/2023_化学_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023江苏卷化学.pdf",
+  "bytes": 902544,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/江苏/江苏卷/2023_化学_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023河北卷化学.pdf",
+  "bytes": 927093,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/河北/河北卷/2023_化学_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023浙江卷化学.pdf",
+  "bytes": 1038319,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/浙江/浙江卷/2023_化学_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023湖南卷化学.pdf",
+  "bytes": 1177795,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/湖南/湖南卷/2023_化学_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023重庆卷化学.pdf",
+  "bytes": 2004287,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/重庆/重庆卷/2023_化学_重庆卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024上海卷化学.pdf",
+  "bytes": 457057,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/上海/上海卷/2024_化学_上海卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024北京卷化学.pdf",
+  "bytes": 1069505,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/北京/北京卷/2024_化学_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024安徽卷化学.pdf",
+  "bytes": 1267294,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/安徽/安徽卷/2024_化学_安徽卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024山东卷化学.pdf",
+  "bytes": 893268,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/山东/山东卷/2024_化学_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024广东卷化学.pdf",
+  "bytes": 1478911,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/广东/广东卷/2024_化学_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024江苏卷化学.pdf",
+  "bytes": 793210,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/江苏/江苏卷/2024_化学_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024河北卷化学.pdf",
+  "bytes": 2285912,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/河北/河北卷/2024_化学_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024浙江卷化学.pdf",
+  "bytes": 875747,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/浙江/浙江卷/2024_化学_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024湖北卷化学.pdf",
+  "bytes": 991121,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/湖北/湖北卷/2024_化学_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024湖南卷化学.pdf",
+  "bytes": 1214770,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/湖南/湖南卷/2024_化学_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024甘肃卷化学.pdf",
+  "bytes": 1249401,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/甘肃/甘肃卷/2024_化学_甘肃卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2024辽宁卷化学.pdf",
+  "bytes": 1245048,
+  "year": 2024,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2024/化学/吉林/辽宁卷/2024_化学_吉林辽宁卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025上海卷化学.pdf",
+  "bytes": 510674,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/上海/上海卷/2025_化学_上海卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025山东卷化学.pdf",
+  "bytes": 694469,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/山东/山东卷/2025_化学_山东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025广东卷化学.pdf",
+  "bytes": 1434952,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/广东/广东卷/2025_化学_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025江苏卷化学.pdf",
+  "bytes": 2432530,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/江苏/江苏卷/2025_化学_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025河北卷化学.pdf",
+  "bytes": 2596038,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/河北/河北卷/2025_化学_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025河南卷化学.pdf",
+  "bytes": 3963157,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/河南/河南卷/2025_化学_河南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025浙江卷化学.pdf",
+  "bytes": 968508,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/浙江/浙江卷/2025_化学_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025湖北卷化学.pdf",
+  "bytes": 3539857,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/湖北/湖北卷/2025_化学_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025湖南卷化学.pdf",
+  "bytes": 2922612,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/湖南/湖南卷/2025_化学_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025甘肃卷化学.pdf",
+  "bytes": 576312,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/甘肃/甘肃卷/2025_化学_甘肃卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025福建卷化学.pdf",
+  "bytes": 994297,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/福建/福建卷/2025_化学_福建卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025重庆卷化学.pdf",
+  "bytes": 2193229,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/重庆/重庆卷/2025_化学_重庆卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026云南卷化学.pdf",
+  "bytes": 1264047,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/云南/云南卷/2026_化学_云南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026内蒙古卷化学.pdf",
+  "bytes": 1674874,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/内蒙古/内蒙古卷/2026_化学_内蒙古卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026四川卷化学.pdf",
+  "bytes": 2503168,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/四川/四川卷/2026_化学_四川卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026广东卷化学.pdf",
+  "bytes": 863816,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/广东/广东卷/2026_化学_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026江苏卷化学.pdf",
+  "bytes": 1607676,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/江苏/江苏卷/2026_化学_江苏卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026河北卷化学.pdf",
+  "bytes": 1627787,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/河北/河北卷/2026_化学_河北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026河南卷化学.pdf",
+  "bytes": 842325,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/河南/河南卷/2026_化学_河南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026浙江卷化学.pdf",
+  "bytes": 933076,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/浙江/浙江卷/2026_化学_浙江卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026湖南卷化学.pdf",
+  "bytes": 1017940,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/湖南/湖南卷/2026_化学_湖南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026贵州卷化学.pdf",
+  "bytes": 1566305,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/贵州/贵州卷/2026_化学_贵州卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026陕西卷化学.pdf",
+  "bytes": 734181,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/宁夏/陕西卷/2026_化学_宁夏陕西卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2026陕西卷化学.pdf",
+  "bytes": 734181,
+  "year": 2026,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2026/化学/陕西/陕西卷/2026_化学_陕西卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023广东卷化学.pdf",
+  "bytes": 1258884,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/广东/广东卷/2023_化学_广东卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023海南卷化学.pdf",
+  "bytes": 674385,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/海南/海南卷/2023_化学_海南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023湖北卷化学.pdf",
+  "bytes": 1252563,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/湖北/湖北卷/2023_化学_湖北卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023福建卷化学.pdf",
+  "bytes": 838936,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/福建/福建卷/2023_化学_福建卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2023辽宁卷化学.pdf",
+  "bytes": 1334592,
+  "year": 2023,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2023/化学/辽宁/辽宁卷/2023_化学_辽宁卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025云南卷化学.pdf",
+  "bytes": 7741377,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/云南/云南卷/2025_化学_云南卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025内蒙古卷化学.pdf",
+  "bytes": 725562,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/内蒙古/内蒙古卷/2025_化学_内蒙古卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025北京卷化学.pdf",
+  "bytes": 159074,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/北京/北京卷/2025_化学_北京卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025四川卷化学.pdf",
+  "bytes": 1160054,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/四川/四川卷/2025_化学_四川卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025安徽卷化学.pdf",
+  "bytes": 828236,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/安徽/安徽卷/2025_化学_安徽卷_原卷.pdf"
+ },
+ {
+  "subject": "chemistry",
+  "file": "chemistry/2025山西卷化学.pdf",
+  "bytes": 4515989,
+  "year": 2025,
+  "repo": "Econom1cc/gaokao-papers-index",
+  "path": "papers/2025/化学/宁夏/山西卷/2025_化学_宁夏山西卷_原卷.pdf"
  }
 ]
