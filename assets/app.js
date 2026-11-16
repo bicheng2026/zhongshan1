@@ -545,24 +545,42 @@
     return text;
   }
 
-  /* 把 AI 输出流式写进容器（容器内容用 textContent 写入，杜绝模型 HTML 注入） */
+  /* 把 AI 输出流式写进容器（容器内容用 textContent 写入，杜绝模型 HTML 注入）
+     ctx.finalOnly=true：不做逐字显示，流式期间只挂一条「正在解答」等待提示，
+     收完再一次性渲染最终结果 —— 避免把模型的中间推导过程暴露给学生。 */
   async function aiInto(spec, box, ctx) {
     ctx = ctx || {};
+    var finalOnly = !!ctx.finalOnly;
     box.textContent = '';
     box.classList.remove('md-body'); box.dataset.mdDone = '';
-    var acc = '', timer = null;
+    var acc = '', timer = null, wtimer = null, dots = 0;
     function flush() {
       box.textContent = acc;
       box.scrollTop = box.scrollHeight;
       if (box.parentElement) box.parentElement.scrollTop = box.parentElement.scrollHeight;
     }
+    function waiting(on) {
+      if (!finalOnly) return;
+      if (on) {
+        if (wtimer) return;
+        box.textContent = '正在解答';
+        wtimer = setInterval(function () {
+          dots = (dots + 1) % 4;
+          box.textContent = '正在解答' + new Array(dots + 1).join('…');
+        }, 420);
+      } else if (wtimer) { clearInterval(wtimer); wtimer = null; }
+    }
+    waiting(true);
     try {
       var text = await aiChat(spec, Object.assign({}, ctx, {
         onDelta: function (t) {
           acc += t;
+          if (finalOnly) return;          // 中间过程不落屏，只等最终结果
           if (!timer) timer = setTimeout(function () { timer = null; flush(); }, 80);
         }
       }));
+      if (timer) { clearTimeout(timer); timer = null; }
+      waiting(false);
       acc = text; flush();
       box.classList.add('md-body');
       box.innerHTML = md2html(text);
@@ -570,6 +588,8 @@
       renderMath(box);
       return text;
     } catch (e) {
+      if (timer) { clearTimeout(timer); timer = null; }
+      waiting(false);
       box.textContent = '调用失败：' + (e && e.message ? e.message : e);
       throw e;
     }
