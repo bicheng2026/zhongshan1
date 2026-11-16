@@ -8852,3 +8852,8487 @@ window.ZS_DOWNLOADS = window.ZS_DOWNLOADS.concat([
  }
 ]);
 /* ===/GAOKAO-PAPERS=== */
+/* ===GAOKAO-PAPERS=== 由 _build/gen_gaokao_dl.py 生成，勿手改；重跑幂等 === */
+window.ZS_DOWNLOADS = window.ZS_DOWNLOADS.concat([
+ {
+  "id": "dl_gk_ma_2020_d992c",
+  "name": "math/2020新高考1(山东).pdf",
+  "file": "assets/gaokao/math/2020新高考1(山东).pdf",
+  "type": "pdf",
+  "sizeKB": 645.4,
+  "subject": "math",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2020_230bb",
+  "name": "math/2020新高考2(海南).pdf",
+  "file": "assets/gaokao/math/2020新高考2(海南).pdf",
+  "type": "pdf",
+  "sizeKB": 644.7,
+  "subject": "math",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2021_73778",
+  "name": "math/2021新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "file": "assets/gaokao/math/2021新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "type": "pdf",
+  "sizeKB": 489.9,
+  "subject": "math",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2021_46e51",
+  "name": "math/2021新高考2(海南,辽宁,重庆).pdf",
+  "file": "assets/gaokao/math/2021新高考2(海南,辽宁,重庆).pdf",
+  "type": "pdf",
+  "sizeKB": 495.1,
+  "subject": "math",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2022_8c613",
+  "name": "math/2022新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "file": "assets/gaokao/math/2022新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "type": "pdf",
+  "sizeKB": 491.7,
+  "subject": "math",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2022_55131",
+  "name": "math/2022新高考2(海南,辽宁,重庆).pdf",
+  "file": "assets/gaokao/math/2022新高考2(海南,辽宁,重庆).pdf",
+  "type": "pdf",
+  "sizeKB": 593.4,
+  "subject": "math",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2023_b3ce9",
+  "name": "math/2023新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江).pdf",
+  "file": "assets/gaokao/math/2023新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江).pdf",
+  "type": "pdf",
+  "sizeKB": 490.6,
+  "subject": "math",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2023_744e7",
+  "name": "math/2023新高考2(辽宁,重庆,海南,安徽,吉林,黑龙江,山西,云南).pdf",
+  "file": "assets/gaokao/math/2023新高考2(辽宁,重庆,海南,安徽,吉林,黑龙江,山西,云南).pdf",
+  "type": "pdf",
+  "sizeKB": 501.1,
+  "subject": "math",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_70f79",
+  "name": "math/2024上海.pdf",
+  "file": "assets/gaokao/math/2024上海.pdf",
+  "type": "pdf",
+  "sizeKB": 488.0,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_fd40c",
+  "name": "math/2024北京.pdf",
+  "file": "assets/gaokao/math/2024北京.pdf",
+  "type": "pdf",
+  "sizeKB": 492.2,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_4a7d0",
+  "name": "math/2024天津.pdf",
+  "file": "assets/gaokao/math/2024天津.pdf",
+  "type": "pdf",
+  "sizeKB": 492.7,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_75da0",
+  "name": "math/2024新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "file": "assets/gaokao/math/2024新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "type": "pdf",
+  "sizeKB": 565.7,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_4c727",
+  "name": "math/2024新高考2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆).pdf",
+  "file": "assets/gaokao/math/2024新高考2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆).pdf",
+  "type": "pdf",
+  "sizeKB": 490.8,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_9d0b9",
+  "name": "math/2025上海.pdf",
+  "file": "assets/gaokao/math/2025上海.pdf",
+  "type": "pdf",
+  "sizeKB": 493.3,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_30059",
+  "name": "math/2025全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "file": "assets/gaokao/math/2025全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "type": "pdf",
+  "sizeKB": 487.2,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_10617",
+  "name": "math/2025全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "file": "assets/gaokao/math/2025全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "type": "pdf",
+  "sizeKB": 488.3,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_10bcc",
+  "name": "math/2025北京.pdf",
+  "file": "assets/gaokao/math/2025北京.pdf",
+  "type": "pdf",
+  "sizeKB": 490.7,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_a7810",
+  "name": "math/2025天津.pdf",
+  "file": "assets/gaokao/math/2025天津.pdf",
+  "type": "pdf",
+  "sizeKB": 221.7,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_bb6b8",
+  "name": "math/2026上海.pdf",
+  "file": "assets/gaokao/math/2026上海.pdf",
+  "type": "pdf",
+  "sizeKB": 116.1,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_b5f99",
+  "name": "math/2026全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "file": "assets/gaokao/math/2026全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "type": "pdf",
+  "sizeKB": 105.2,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_f0b1f",
+  "name": "math/2026全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "file": "assets/gaokao/math/2026全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "type": "pdf",
+  "sizeKB": 102.9,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_36dcd",
+  "name": "math/2026北京.pdf",
+  "file": "assets/gaokao/math/2026北京.pdf",
+  "type": "pdf",
+  "sizeKB": 141.6,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_81e11",
+  "name": "math/2026天津.pdf",
+  "file": "assets/gaokao/math/2026天津.pdf",
+  "type": "pdf",
+  "sizeKB": 112.9,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_50a4b",
+  "name": "physics/2021山东.pdf",
+  "file": "assets/gaokao/physics/2021山东.pdf",
+  "type": "pdf",
+  "sizeKB": 918.8,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_7ba61",
+  "name": "physics/2021广东.pdf",
+  "file": "assets/gaokao/physics/2021广东.pdf",
+  "type": "pdf",
+  "sizeKB": 761.5,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_03309",
+  "name": "physics/2021江苏.pdf",
+  "file": "assets/gaokao/physics/2021江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 815.8,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_6f5ee",
+  "name": "physics/2021河北.pdf",
+  "file": "assets/gaokao/physics/2021河北.pdf",
+  "type": "pdf",
+  "sizeKB": 926.7,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_5f6aa",
+  "name": "physics/2021浙江1月.pdf",
+  "file": "assets/gaokao/physics/2021浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 1002.0,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_0ffb3",
+  "name": "physics/2021浙江6月.pdf",
+  "file": "assets/gaokao/physics/2021浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 1326.6,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_14578",
+  "name": "physics/2021海南.pdf",
+  "file": "assets/gaokao/physics/2021海南.pdf",
+  "type": "pdf",
+  "sizeKB": 690.0,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_50701",
+  "name": "physics/2021湖北.pdf",
+  "file": "assets/gaokao/physics/2021湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 641.4,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_9d4a4",
+  "name": "physics/2021湖南.pdf",
+  "file": "assets/gaokao/physics/2021湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 1083.4,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_4173f",
+  "name": "physics/2021福建.pdf",
+  "file": "assets/gaokao/physics/2021福建.pdf",
+  "type": "pdf",
+  "sizeKB": 724.4,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_5e264",
+  "name": "physics/2021辽宁.pdf",
+  "file": "assets/gaokao/physics/2021辽宁.pdf",
+  "type": "pdf",
+  "sizeKB": 671.4,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_f3033",
+  "name": "physics/2021重庆.pdf",
+  "file": "assets/gaokao/physics/2021重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 731.7,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_76c4a",
+  "name": "physics/2022山东.pdf",
+  "file": "assets/gaokao/physics/2022山东.pdf",
+  "type": "pdf",
+  "sizeKB": 1220.7,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_5dc60",
+  "name": "physics/2022广东.pdf",
+  "file": "assets/gaokao/physics/2022广东.pdf",
+  "type": "pdf",
+  "sizeKB": 889.8,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_25508",
+  "name": "physics/2022江苏.pdf",
+  "file": "assets/gaokao/physics/2022江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 826.2,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_493ef",
+  "name": "physics/2022河北.pdf",
+  "file": "assets/gaokao/physics/2022河北.pdf",
+  "type": "pdf",
+  "sizeKB": 1118.1,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_89cd3",
+  "name": "physics/2022浙江1月.pdf",
+  "file": "assets/gaokao/physics/2022浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 921.3,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_d95ca",
+  "name": "physics/2022浙江6月.pdf",
+  "file": "assets/gaokao/physics/2022浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 1236.8,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_32379",
+  "name": "physics/2022海南.pdf",
+  "file": "assets/gaokao/physics/2022海南.pdf",
+  "type": "pdf",
+  "sizeKB": 561.0,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_76100",
+  "name": "physics/2022湖北.pdf",
+  "file": "assets/gaokao/physics/2022湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 823.4,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_bb2a5",
+  "name": "physics/2022湖南.pdf",
+  "file": "assets/gaokao/physics/2022湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 1148.0,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_6713e",
+  "name": "physics/2022福建.pdf",
+  "file": "assets/gaokao/physics/2022福建.pdf",
+  "type": "pdf",
+  "sizeKB": 784.8,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_78465",
+  "name": "physics/2022辽宁.pdf",
+  "file": "assets/gaokao/physics/2022辽宁.pdf",
+  "type": "pdf",
+  "sizeKB": 778.9,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_d5632",
+  "name": "physics/2022重庆.pdf",
+  "file": "assets/gaokao/physics/2022重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 969.9,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_9b38a",
+  "name": "physics/2023山东.pdf",
+  "file": "assets/gaokao/physics/2023山东.pdf",
+  "type": "pdf",
+  "sizeKB": 916.4,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_b03a0",
+  "name": "physics/2023广东.pdf",
+  "file": "assets/gaokao/physics/2023广东.pdf",
+  "type": "pdf",
+  "sizeKB": 542.6,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_03482",
+  "name": "physics/2023新高考理综(山西,吉林,黑龙江,安徽,云南).pdf",
+  "file": "assets/gaokao/physics/2023新高考理综(山西,吉林,黑龙江,安徽,云南).pdf",
+  "type": "pdf",
+  "sizeKB": 546.7,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_c8ac8",
+  "name": "physics/2023江苏.pdf",
+  "file": "assets/gaokao/physics/2023江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 692.0,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_a4c2f",
+  "name": "physics/2023河北.pdf",
+  "file": "assets/gaokao/physics/2023河北.pdf",
+  "type": "pdf",
+  "sizeKB": 984.5,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_3473b",
+  "name": "physics/2023浙江1月.pdf",
+  "file": "assets/gaokao/physics/2023浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 1006.4,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_64e22",
+  "name": "physics/2023浙江6月.pdf",
+  "file": "assets/gaokao/physics/2023浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 874.9,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_9bec0",
+  "name": "physics/2023湖北.pdf",
+  "file": "assets/gaokao/physics/2023湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 888.5,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_56d65",
+  "name": "physics/2023湖南.pdf",
+  "file": "assets/gaokao/physics/2023湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 1072.4,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_8aefe",
+  "name": "physics/2023福建.pdf",
+  "file": "assets/gaokao/physics/2023福建.pdf",
+  "type": "pdf",
+  "sizeKB": 4399.1,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_95ba5",
+  "name": "physics/2023辽宁.pdf",
+  "file": "assets/gaokao/physics/2023辽宁.pdf",
+  "type": "pdf",
+  "sizeKB": 929.1,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_389f2",
+  "name": "physics/2023重庆.pdf",
+  "file": "assets/gaokao/physics/2023重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 822.7,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_c8d7c",
+  "name": "physics/2024安徽.pdf",
+  "file": "assets/gaokao/physics/2024安徽.pdf",
+  "type": "pdf",
+  "sizeKB": 521.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_2a609",
+  "name": "physics/2024山东.pdf",
+  "file": "assets/gaokao/physics/2024山东.pdf",
+  "type": "pdf",
+  "sizeKB": 726.7,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_01623",
+  "name": "physics/2024广东.pdf",
+  "file": "assets/gaokao/physics/2024广东.pdf",
+  "type": "pdf",
+  "sizeKB": 619.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_938c6",
+  "name": "physics/2024广西.pdf",
+  "file": "assets/gaokao/physics/2024广西.pdf",
+  "type": "pdf",
+  "sizeKB": 561.6,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_d7445",
+  "name": "physics/2024新高考理综(河南,山西,云南,新疆).pdf",
+  "file": "assets/gaokao/physics/2024新高考理综(河南,山西,云南,新疆).pdf",
+  "type": "pdf",
+  "sizeKB": 646.2,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_79f4b",
+  "name": "physics/2024江苏.pdf",
+  "file": "assets/gaokao/physics/2024江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 482.6,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_0438b",
+  "name": "physics/2024江西.pdf",
+  "file": "assets/gaokao/physics/2024江西.pdf",
+  "type": "pdf",
+  "sizeKB": 657.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_159ac",
+  "name": "physics/2024河北.pdf",
+  "file": "assets/gaokao/physics/2024河北.pdf",
+  "type": "pdf",
+  "sizeKB": 717.4,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_24821",
+  "name": "physics/2024浙江1月.pdf",
+  "file": "assets/gaokao/physics/2024浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 860.9,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_74138",
+  "name": "physics/2024浙江6月.pdf",
+  "file": "assets/gaokao/physics/2024浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 715.8,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_6e93a",
+  "name": "physics/2024海南.pdf",
+  "file": "assets/gaokao/physics/2024海南.pdf",
+  "type": "pdf",
+  "sizeKB": 633.1,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_e78e6",
+  "name": "physics/2024湖南.pdf",
+  "file": "assets/gaokao/physics/2024湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 652.9,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_98649",
+  "name": "physics/2024甘肃.pdf",
+  "file": "assets/gaokao/physics/2024甘肃.pdf",
+  "type": "pdf",
+  "sizeKB": 570.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_3bb7d",
+  "name": "physics/2024福建.pdf",
+  "file": "assets/gaokao/physics/2024福建.pdf",
+  "type": "pdf",
+  "sizeKB": 634.1,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_08c0d",
+  "name": "physics/2024贵州.pdf",
+  "file": "assets/gaokao/physics/2024贵州.pdf",
+  "type": "pdf",
+  "sizeKB": 685.8,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_89c71",
+  "name": "physics/2024重庆.pdf",
+  "file": "assets/gaokao/physics/2024重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 534.7,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_2d95d",
+  "name": "physics/2024黑吉辽.pdf",
+  "file": "assets/gaokao/physics/2024黑吉辽.pdf",
+  "type": "pdf",
+  "sizeKB": 624.6,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_d42c7",
+  "name": "physics/2025云南.pdf",
+  "file": "assets/gaokao/physics/2025云南.pdf",
+  "type": "pdf",
+  "sizeKB": 595.8,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_49fbb",
+  "name": "physics/2025四川.pdf",
+  "file": "assets/gaokao/physics/2025四川.pdf",
+  "type": "pdf",
+  "sizeKB": 552.0,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_252bc",
+  "name": "physics/2025安徽.pdf",
+  "file": "assets/gaokao/physics/2025安徽.pdf",
+  "type": "pdf",
+  "sizeKB": 548.8,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_c79c9",
+  "name": "physics/2025山东.pdf",
+  "file": "assets/gaokao/physics/2025山东.pdf",
+  "type": "pdf",
+  "sizeKB": 693.5,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_ec9e3",
+  "name": "physics/2025广东.pdf",
+  "file": "assets/gaokao/physics/2025广东.pdf",
+  "type": "pdf",
+  "sizeKB": 655.6,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_7e706",
+  "name": "physics/2025广西.pdf",
+  "file": "assets/gaokao/physics/2025广西.pdf",
+  "type": "pdf",
+  "sizeKB": 579.0,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_9408b",
+  "name": "physics/2025江苏.pdf",
+  "file": "assets/gaokao/physics/2025江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 499.3,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_e9c4b",
+  "name": "physics/2025江西.pdf",
+  "file": "assets/gaokao/physics/2025江西.pdf",
+  "type": "pdf",
+  "sizeKB": 643.1,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_f866c",
+  "name": "physics/2025河北.pdf",
+  "file": "assets/gaokao/physics/2025河北.pdf",
+  "type": "pdf",
+  "sizeKB": 603.2,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_355c9",
+  "name": "physics/2025河南.pdf",
+  "file": "assets/gaokao/physics/2025河南.pdf",
+  "type": "pdf",
+  "sizeKB": 556.1,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_993c9",
+  "name": "physics/2025浙江1月.pdf",
+  "file": "assets/gaokao/physics/2025浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 843.5,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_c9ad0",
+  "name": "physics/2025浙江6月.pdf",
+  "file": "assets/gaokao/physics/2025浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 817.3,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_836fa",
+  "name": "physics/2025海南.pdf",
+  "file": "assets/gaokao/physics/2025海南.pdf",
+  "type": "pdf",
+  "sizeKB": 572.2,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_c7483",
+  "name": "physics/2025湖北.pdf",
+  "file": "assets/gaokao/physics/2025湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 523.2,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_d64bd",
+  "name": "physics/2025福建.pdf",
+  "file": "assets/gaokao/physics/2025福建.pdf",
+  "type": "pdf",
+  "sizeKB": 675.5,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_e53cd",
+  "name": "physics/2025贵州.pdf",
+  "file": "assets/gaokao/physics/2025贵州.pdf",
+  "type": "pdf",
+  "sizeKB": 607.6,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_643b1",
+  "name": "physics/2025重庆.pdf",
+  "file": "assets/gaokao/physics/2025重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 578.7,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_d7cbb",
+  "name": "physics/2025陕晋宁青.pdf",
+  "file": "assets/gaokao/physics/2025陕晋宁青.pdf",
+  "type": "pdf",
+  "sizeKB": 583.9,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_094b2",
+  "name": "physics/2025黑吉辽蒙.pdf",
+  "file": "assets/gaokao/physics/2025黑吉辽蒙.pdf",
+  "type": "pdf",
+  "sizeKB": 611.7,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_f24c6",
+  "name": "physics/2026云南.pdf",
+  "file": "assets/gaokao/physics/2026云南.pdf",
+  "type": "pdf",
+  "sizeKB": 692.0,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_6f9ba",
+  "name": "physics/2026四川.pdf",
+  "file": "assets/gaokao/physics/2026四川.pdf",
+  "type": "pdf",
+  "sizeKB": 563.1,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_e1fc8",
+  "name": "physics/2026山东.pdf",
+  "file": "assets/gaokao/physics/2026山东.pdf",
+  "type": "pdf",
+  "sizeKB": 672.0,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_cafe2",
+  "name": "physics/2026广东.pdf",
+  "file": "assets/gaokao/physics/2026广东.pdf",
+  "type": "pdf",
+  "sizeKB": 681.4,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_b268a",
+  "name": "physics/2026江苏.pdf",
+  "file": "assets/gaokao/physics/2026江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 862.8,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_de06d",
+  "name": "physics/2026河北.pdf",
+  "file": "assets/gaokao/physics/2026河北.pdf",
+  "type": "pdf",
+  "sizeKB": 601.5,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_133c8",
+  "name": "physics/2026河南.pdf",
+  "file": "assets/gaokao/physics/2026河南.pdf",
+  "type": "pdf",
+  "sizeKB": 603.4,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_4f9b0",
+  "name": "physics/2026浙江1月.pdf",
+  "file": "assets/gaokao/physics/2026浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 1036.5,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_1f0a9",
+  "name": "physics/2026浙江6月.pdf",
+  "file": "assets/gaokao/physics/2026浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 827.4,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_e1282",
+  "name": "physics/2026湖北.pdf",
+  "file": "assets/gaokao/physics/2026湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 476.0,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_2c127",
+  "name": "physics/2026湖南.pdf",
+  "file": "assets/gaokao/physics/2026湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 499.3,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_53f88",
+  "name": "physics/2026甘肃.pdf",
+  "file": "assets/gaokao/physics/2026甘肃.pdf",
+  "type": "pdf",
+  "sizeKB": 463.2,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_c35cc",
+  "name": "physics/2026贵州.pdf",
+  "file": "assets/gaokao/physics/2026贵州.pdf",
+  "type": "pdf",
+  "sizeKB": 616.3,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_425b0",
+  "name": "physics/2026重庆.pdf",
+  "file": "assets/gaokao/physics/2026重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 924.8,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_dff4b",
+  "name": "physics/2026陕晋青宁.pdf",
+  "file": "assets/gaokao/physics/2026陕晋青宁.pdf",
+  "type": "pdf",
+  "sizeKB": 540.6,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_acf36",
+  "name": "physics/2026黑吉辽蒙.pdf",
+  "file": "assets/gaokao/physics/2026黑吉辽蒙.pdf",
+  "type": "pdf",
+  "sizeKB": 546.9,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2024_8f648",
+  "name": "mock/雅思写作小作文讲义 for PRINT 2.0.pdf",
+  "file": "assets/gaokao/mock/雅思写作小作文讲义 for PRINT 2.0.pdf",
+  "type": "pdf",
+  "sizeKB": 1331.0,
+  "subject": "english",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2024_465b1",
+  "name": "mock/雅思阅读讲义(新).pdf",
+  "file": "assets/gaokao/mock/雅思阅读讲义(新).pdf",
+  "type": "pdf",
+  "sizeKB": 1063.9,
+  "subject": "english",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_c29ab",
+  "name": "mock/2025年贵州贵阳高三二模化学试卷 答案版.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三二模化学试卷 答案版.pdf",
+  "type": "pdf",
+  "sizeKB": 3279.0,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_7a3db",
+  "name": "mock/2025年贵州贵阳高三二模化学试卷.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三二模化学试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 2911.0,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_b2ec7",
+  "name": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷.pdf",
+  "file": "assets/gaokao/mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 460.3,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_d4e7c",
+  "name": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷（答案版）.pdf",
+  "file": "assets/gaokao/mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷（答案版）.pdf",
+  "type": "pdf",
+  "sizeKB": 1269.5,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_8aa90",
+  "name": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷.pdf",
+  "file": "assets/gaokao/mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 585.6,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_8e781",
+  "name": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷（答案）.pdf",
+  "file": "assets/gaokao/mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 1709.2,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_4f074",
+  "name": "mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷.pdf",
+  "file": "assets/gaokao/mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 1203.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_60ec7",
+  "name": "mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷（模拟）.pdf",
+  "file": "assets/gaokao/mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷（模拟）.pdf",
+  "type": "pdf",
+  "sizeKB": 1282.9,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_9ffd2",
+  "name": "mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷.pdf",
+  "file": "assets/gaokao/mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 599.9,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_e922c",
+  "name": "mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷（答案）.pdf",
+  "file": "assets/gaokao/mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 954.1,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_98a55",
+  "name": "mock/2024年贵州贵阳高三一模物理试卷（适应性）.pdf",
+  "file": "assets/gaokao/mock/2024年贵州贵阳高三一模物理试卷（适应性）.pdf",
+  "type": "pdf",
+  "sizeKB": 1020.7,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_b7aff",
+  "name": "mock/2024年贵州贵阳高三一模物理试卷（适应性）答案.pdf",
+  "file": "assets/gaokao/mock/2024年贵州贵阳高三一模物理试卷（适应性）答案.pdf",
+  "type": "pdf",
+  "sizeKB": 1358.4,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_b74db",
+  "name": "mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）.pdf",
+  "file": "assets/gaokao/mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）.pdf",
+  "type": "pdf",
+  "sizeKB": 2676.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_b3a9f",
+  "name": "mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 3007.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_a9da6",
+  "name": "mock/2025年广西河池高三一模物理试卷（八校协作体）.pdf",
+  "file": "assets/gaokao/mock/2025年广西河池高三一模物理试卷（八校协作体）.pdf",
+  "type": "pdf",
+  "sizeKB": 784.4,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_ee41a",
+  "name": "mock/2025年广西河池高三一模物理试卷（八校协作体）（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年广西河池高三一模物理试卷（八校协作体）（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 1121.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_ad503",
+  "name": "mock/2025年广西高三一模物理试卷.pdf",
+  "file": "assets/gaokao/mock/2025年广西高三一模物理试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 2977.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_9cac4",
+  "name": "mock/2025年广西高三一模物理试卷（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年广西高三一模物理试卷（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 3215.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_1da43",
+  "name": "mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）.pdf",
+  "type": "pdf",
+  "sizeKB": 1818.5,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_6cf2e",
+  "name": "mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 2355.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_1ac37",
+  "name": "mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））.pdf",
+  "type": "pdf",
+  "sizeKB": 1194.4,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_de815",
+  "name": "mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 1470.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_6f991",
+  "name": "mock/2025年贵州贵阳高三一模物理试卷.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三一模物理试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 1818.7,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_ce141",
+  "name": "mock/2025年贵州贵阳高三一模物理试卷（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三一模物理试卷（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 2352.5,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_46a25",
+  "name": "mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）.pdf",
+  "type": "pdf",
+  "sizeKB": 2175.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_5e4d8",
+  "name": "mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 2735.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_a0025",
+  "name": "chinese/2020新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2020新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 6260.5,
+  "subject": "chinese",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_5e153",
+  "name": "chinese/2020新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2020新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 7297.2,
+  "subject": "chinese",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_0058f",
+  "name": "chinese/2021新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2021新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 6574.0,
+  "subject": "chinese",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_fe4f9",
+  "name": "chinese/2021新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2021新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 12244.8,
+  "subject": "chinese",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_f0d30",
+  "name": "chinese/2022新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2022新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5569.7,
+  "subject": "chinese",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_0ec46",
+  "name": "chinese/2022新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2022新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 6549.3,
+  "subject": "chinese",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_5089a",
+  "name": "chinese/2023新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2023新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5708.8,
+  "subject": "chinese",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_ae9ec",
+  "name": "chinese/2023新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2023新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5575.8,
+  "subject": "chinese",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_01a0f",
+  "name": "chinese/2024新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2024新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5336.1,
+  "subject": "chinese",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_ffb79",
+  "name": "chinese/2024新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2024新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5894.9,
+  "subject": "chinese",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_a1fa5",
+  "name": "chinese/2025新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2025新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 816.0,
+  "subject": "chinese",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_5fed3",
+  "name": "chinese/2025新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2025新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 702.6,
+  "subject": "chinese",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_5171a",
+  "name": "chinese/2026新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2026新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 1468.2,
+  "subject": "chinese",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_af66c",
+  "name": "chinese/2026新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2026新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 634.4,
+  "subject": "chinese",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2020_f8fb8",
+  "name": "english/2020新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2020新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 166.0,
+  "subject": "english",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2020_06ece",
+  "name": "english/2020新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2020新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 272.3,
+  "subject": "english",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2021_58a12",
+  "name": "english/2021新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2021新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 162.4,
+  "subject": "english",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2021_a6b64",
+  "name": "english/2021新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2021新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 126.1,
+  "subject": "english",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2022_a82ad",
+  "name": "english/2022新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2022新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 189.1,
+  "subject": "english",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2022_563db",
+  "name": "english/2022新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2022新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 163.8,
+  "subject": "english",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2023_08707",
+  "name": "english/2023新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2023新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 155.8,
+  "subject": "english",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2023_f6671",
+  "name": "english/2023新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2023新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 177.1,
+  "subject": "english",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2024_59592",
+  "name": "english/2024新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2024新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 186.1,
+  "subject": "english",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2024_a74e4",
+  "name": "english/2024新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2024新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 189.6,
+  "subject": "english",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2025_f9038",
+  "name": "english/2025新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2025新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 825.4,
+  "subject": "english",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2025_0714e",
+  "name": "english/2025新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2025新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 405.0,
+  "subject": "english",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2026_09887",
+  "name": "english/2026新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2026新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 295.9,
+  "subject": "english",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2026_f79f1",
+  "name": "english/2026新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2026新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 14052.8,
+  "subject": "english",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_5e8f3",
+  "name": "politics/2020北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2020北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 693.3,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_16f88",
+  "name": "politics/2020天津卷政治.pdf",
+  "file": "assets/gaokao/politics/2020天津卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 559.8,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_cb3e7",
+  "name": "politics/2020山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2020山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 715.0,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_288fb",
+  "name": "politics/2020浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2020浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 311.5,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_6e066",
+  "name": "politics/2020海南卷政治.pdf",
+  "file": "assets/gaokao/politics/2020海南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 951.6,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_2d3b5",
+  "name": "politics/2021北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2021北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 2817.4,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_654ce",
+  "name": "politics/2021天津卷政治.pdf",
+  "file": "assets/gaokao/politics/2021天津卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 485.1,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_b88a1",
+  "name": "politics/2021山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2021山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 850.4,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_ede3b",
+  "name": "politics/2021广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2021广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 370.5,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_1c5b3",
+  "name": "politics/2021江苏卷政治.pdf",
+  "file": "assets/gaokao/politics/2021江苏卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 3141.4,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_c2d63",
+  "name": "politics/2021河北卷政治.pdf",
+  "file": "assets/gaokao/politics/2021河北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 353.9,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_5b3bd",
+  "name": "politics/2021浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2021浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 534.5,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_1db20",
+  "name": "politics/2021海南卷政治.pdf",
+  "file": "assets/gaokao/politics/2021海南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 484.8,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_6807b",
+  "name": "politics/2021湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2021湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 774.0,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_d5b93",
+  "name": "politics/2021湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2021湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 366.0,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_743bb",
+  "name": "politics/2021福建卷政治.pdf",
+  "file": "assets/gaokao/politics/2021福建卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 574.9,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_f42bc",
+  "name": "politics/2021辽宁卷政治.pdf",
+  "file": "assets/gaokao/politics/2021辽宁卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 785.4,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_b9e7f",
+  "name": "politics/2022北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2022北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 437.3,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_f1904",
+  "name": "politics/2022天津卷政治.pdf",
+  "file": "assets/gaokao/politics/2022天津卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 288.4,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_2c56b",
+  "name": "politics/2022山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2022山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 419.5,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_793f1",
+  "name": "politics/2022广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2022广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 646.5,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_88879",
+  "name": "politics/2022江苏卷政治.pdf",
+  "file": "assets/gaokao/politics/2022江苏卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 279.1,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_cfe77",
+  "name": "politics/2022浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2022浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 310.5,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_896ea",
+  "name": "politics/2022海南卷政治.pdf",
+  "file": "assets/gaokao/politics/2022海南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 300.0,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_fcdb1",
+  "name": "politics/2022湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2022湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 206.5,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_41659",
+  "name": "politics/2022湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2022湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 839.1,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_e0e71",
+  "name": "politics/2022福建卷政治.pdf",
+  "file": "assets/gaokao/politics/2022福建卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 734.6,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_60f76",
+  "name": "politics/2022辽宁卷政治.pdf",
+  "file": "assets/gaokao/politics/2022辽宁卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 338.0,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_38880",
+  "name": "politics/2022重庆卷政治.pdf",
+  "file": "assets/gaokao/politics/2022重庆卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 421.3,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_ca539",
+  "name": "politics/2023北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2023北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 1275.2,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_82242",
+  "name": "politics/2023天津卷政治.pdf",
+  "file": "assets/gaokao/politics/2023天津卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 457.2,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_5fe2d",
+  "name": "politics/2023山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2023山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 710.5,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_0a8b7",
+  "name": "politics/2023广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2023广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 327.0,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_fb33f",
+  "name": "politics/2023江苏卷政治.pdf",
+  "file": "assets/gaokao/politics/2023江苏卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 1354.7,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_25bef",
+  "name": "politics/2023河北卷政治.pdf",
+  "file": "assets/gaokao/politics/2023河北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 263.7,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_bc531",
+  "name": "politics/2023浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2023浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 551.8,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_fadac",
+  "name": "politics/2023海南卷政治.pdf",
+  "file": "assets/gaokao/politics/2023海南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 343.5,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_8f6f7",
+  "name": "politics/2023湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2023湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 505.6,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_32d1f",
+  "name": "politics/2023湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2023湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 738.9,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_93537",
+  "name": "politics/2023福建卷政治.pdf",
+  "file": "assets/gaokao/politics/2023福建卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 397.5,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_13430",
+  "name": "politics/2023辽宁卷政治.pdf",
+  "file": "assets/gaokao/politics/2023辽宁卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 795.3,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_4b3c6",
+  "name": "politics/2023重庆卷政治.pdf",
+  "file": "assets/gaokao/politics/2023重庆卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 375.6,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_803aa",
+  "name": "politics/2024北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2024北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 863.3,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_6981a",
+  "name": "politics/2024安徽卷政治.pdf",
+  "file": "assets/gaokao/politics/2024安徽卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 322.4,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_158be",
+  "name": "politics/2024山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2024山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 725.9,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_40e24",
+  "name": "politics/2024广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2024广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 731.9,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_f63a2",
+  "name": "politics/2024浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2024浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 492.5,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_78b8c",
+  "name": "politics/2024湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2024湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 738.5,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_592a3",
+  "name": "politics/2024辽宁卷政治.pdf",
+  "file": "assets/gaokao/politics/2024辽宁卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 953.6,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_01712",
+  "name": "politics/2025云南卷政治.pdf",
+  "file": "assets/gaokao/politics/2025云南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 417.7,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_116eb",
+  "name": "politics/2025内蒙古卷政治.pdf",
+  "file": "assets/gaokao/politics/2025内蒙古卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 1309.0,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_f38ec",
+  "name": "politics/2025北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2025北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 1102.2,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_1a35c",
+  "name": "politics/2025安徽卷政治.pdf",
+  "file": "assets/gaokao/politics/2025安徽卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 435.7,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_663f8",
+  "name": "politics/2025山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2025山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 4222.7,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_33562",
+  "name": "politics/2025广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2025广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 541.0,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_c2eea",
+  "name": "politics/2025江苏卷政治.pdf",
+  "file": "assets/gaokao/politics/2025江苏卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 609.0,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_1c63a",
+  "name": "politics/2025河北卷政治.pdf",
+  "file": "assets/gaokao/politics/2025河北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 480.8,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_a1dd2",
+  "name": "politics/2025河南卷政治.pdf",
+  "file": "assets/gaokao/politics/2025河南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 829.8,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_b6b22",
+  "name": "politics/2025湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2025湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 710.3,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_0b0ca",
+  "name": "politics/2025湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2025湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 711.4,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_95ad8",
+  "name": "politics/2026云南卷政治.pdf",
+  "file": "assets/gaokao/politics/2026云南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 622.6,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_67526",
+  "name": "politics/2026北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2026北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 250.0,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_f2e32",
+  "name": "politics/2026山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2026山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 792.2,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_e4b6d",
+  "name": "politics/2026新高考全国Ⅰ卷政治.pdf",
+  "file": "assets/gaokao/politics/2026新高考全国Ⅰ卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 196.5,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_1aa1b",
+  "name": "politics/2026新高考全国Ⅱ卷政治.pdf",
+  "file": "assets/gaokao/politics/2026新高考全国Ⅱ卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 202.3,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_88bf0",
+  "name": "politics/2026河北卷政治.pdf",
+  "file": "assets/gaokao/politics/2026河北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 526.4,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_35018",
+  "name": "politics/2026河南卷政治.pdf",
+  "file": "assets/gaokao/politics/2026河南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 2025.0,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_226e8",
+  "name": "politics/2026湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2026湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 557.3,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_15ed4",
+  "name": "politics/2026陕西卷政治.pdf",
+  "file": "assets/gaokao/politics/2026陕西卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 523.2,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_c1e2a",
+  "name": "chemistry/2020上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 3607.1,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_e764c",
+  "name": "chemistry/2020北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 714.7,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_af137",
+  "name": "chemistry/2020天津卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020天津卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 900.3,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_72d58",
+  "name": "chemistry/2020山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 884.7,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_91644",
+  "name": "chemistry/2020浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 723.4,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_d7ed9",
+  "name": "chemistry/2020海南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020海南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 518.6,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_b256c",
+  "name": "chemistry/2021上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 556.9,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_94d0a",
+  "name": "chemistry/2021北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 873.3,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_dca71",
+  "name": "chemistry/2021天津卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021天津卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 787.4,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_0161e",
+  "name": "chemistry/2021山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 909.4,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_54084",
+  "name": "chemistry/2021广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 746.3,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_a5b0c",
+  "name": "chemistry/2021江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1163.0,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_7b3dc",
+  "name": "chemistry/2021河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 996.1,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_e2d02",
+  "name": "chemistry/2021浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 779.5,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_a459f",
+  "name": "chemistry/2021海南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021海南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 389.0,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_d1ec4",
+  "name": "chemistry/2021湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1187.5,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_6c52c",
+  "name": "chemistry/2021湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1302.5,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_cdd04",
+  "name": "chemistry/2021福建卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021福建卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 446.7,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_4dc03",
+  "name": "chemistry/2021辽宁卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021辽宁卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1497.8,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_15bf5",
+  "name": "chemistry/2021重庆卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021重庆卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 418.8,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_268a6",
+  "name": "chemistry/2022上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 340.3,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_000c0",
+  "name": "chemistry/2022北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 683.0,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_487bb",
+  "name": "chemistry/2022天津卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022天津卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 541.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_95bd4",
+  "name": "chemistry/2022山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1461.4,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_c0d4e",
+  "name": "chemistry/2022广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2223.4,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_316c6",
+  "name": "chemistry/2022江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 774.5,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_efe16",
+  "name": "chemistry/2022河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 622.4,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_760c8",
+  "name": "chemistry/2022浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1156.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_30855",
+  "name": "chemistry/2022海南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022海南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 698.6,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_4530e",
+  "name": "chemistry/2022湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 884.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_f88e6",
+  "name": "chemistry/2022湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1005.5,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_590ce",
+  "name": "chemistry/2022福建卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022福建卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1028.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_d91c9",
+  "name": "chemistry/2022辽宁卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022辽宁卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 753.0,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_8163f",
+  "name": "chemistry/2022重庆卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022重庆卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1778.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_553e0",
+  "name": "chemistry/2023上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 597.0,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_73b86",
+  "name": "chemistry/2023北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1036.1,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_3bcfd",
+  "name": "chemistry/2023天津卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023天津卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 276.2,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_e6092",
+  "name": "chemistry/2023山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1118.1,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_42d80",
+  "name": "chemistry/2023江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 881.4,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_9c550",
+  "name": "chemistry/2023河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 905.4,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_05b8e",
+  "name": "chemistry/2023浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1014.0,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_8b3a0",
+  "name": "chemistry/2023湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1150.2,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_f2d79",
+  "name": "chemistry/2023重庆卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023重庆卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1957.3,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_1f573",
+  "name": "chemistry/2024上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 446.3,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_39d15",
+  "name": "chemistry/2024北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1044.4,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_d06a5",
+  "name": "chemistry/2024安徽卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024安徽卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1237.6,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_ac601",
+  "name": "chemistry/2024山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 872.3,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_f909b",
+  "name": "chemistry/2024广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1444.2,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_08b13",
+  "name": "chemistry/2024江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 774.6,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_d63c3",
+  "name": "chemistry/2024河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2232.3,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_4fd1d",
+  "name": "chemistry/2024浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 855.2,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_7cedb",
+  "name": "chemistry/2024湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 967.9,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_c1533",
+  "name": "chemistry/2024湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1186.3,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_b2895",
+  "name": "chemistry/2024甘肃卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024甘肃卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1220.1,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_e0c1c",
+  "name": "chemistry/2024辽宁卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024辽宁卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1215.9,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_6ce35",
+  "name": "chemistry/2025上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 498.7,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_dfd47",
+  "name": "chemistry/2025山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 678.2,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_8abdd",
+  "name": "chemistry/2025广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1401.3,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_7b055",
+  "name": "chemistry/2025江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2375.5,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_a5885",
+  "name": "chemistry/2025河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2535.2,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_1836d",
+  "name": "chemistry/2025河南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025河南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 3870.3,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_3c65b",
+  "name": "chemistry/2025浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 945.8,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_0f59d",
+  "name": "chemistry/2025湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 3456.9,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_b2e75",
+  "name": "chemistry/2025湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2854.1,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_c13d3",
+  "name": "chemistry/2025甘肃卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025甘肃卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 562.8,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_1365d",
+  "name": "chemistry/2025福建卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025福建卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 971.0,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_cb0ac",
+  "name": "chemistry/2025重庆卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025重庆卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2141.8,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_2c467",
+  "name": "chemistry/2026云南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026云南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1234.4,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_fe4f9",
+  "name": "chemistry/2026内蒙古卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026内蒙古卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1635.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_793eb",
+  "name": "chemistry/2026四川卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026四川卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2444.5,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_1e617",
+  "name": "chemistry/2026广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 843.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_efd9f",
+  "name": "chemistry/2026江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1570.0,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_3154f",
+  "name": "chemistry/2026河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1589.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_8cea7",
+  "name": "chemistry/2026河南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026河南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 822.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_a8b91",
+  "name": "chemistry/2026浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 911.2,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_263bf",
+  "name": "chemistry/2026湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 994.1,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_3f03b",
+  "name": "chemistry/2026贵州卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026贵州卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1529.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_ac06b",
+  "name": "chemistry/2026陕西卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026陕西卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 835.4,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_ac06b",
+  "name": "chemistry/2026陕西卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026陕西卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 835.4,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_b3608",
+  "name": "chemistry/2023广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1229.4,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_43313",
+  "name": "chemistry/2023海南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023海南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 658.6,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_36848",
+  "name": "chemistry/2023湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1223.2,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_2ab88",
+  "name": "chemistry/2023福建卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023福建卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 819.3,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_aaa8f",
+  "name": "chemistry/2023辽宁卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023辽宁卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1303.3,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_b89ad",
+  "name": "chemistry/2025云南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025云南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 7559.9,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_addc4",
+  "name": "chemistry/2025内蒙古卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025内蒙古卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 708.6,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_4a653",
+  "name": "chemistry/2025北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 155.3,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_ede21",
+  "name": "chemistry/2025四川卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025四川卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1132.9,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_a3de3",
+  "name": "chemistry/2025安徽卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025安徽卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 808.8,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_69ecf",
+  "name": "chemistry/2025山西卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025山西卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 4410.1,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ }
+]);
+/* ===/GAOKAO-PAPERS=== */
+/* ===GAOKAO-PAPERS=== 由 _build/gen_gaokao_dl.py 生成，勿手改；重跑幂等 === */
+window.ZS_DOWNLOADS = window.ZS_DOWNLOADS.concat([
+ {
+  "id": "dl_gk_ma_2020_d992c",
+  "name": "math/2020新高考1(山东).pdf",
+  "file": "assets/gaokao/math/2020新高考1(山东).pdf",
+  "type": "pdf",
+  "sizeKB": 645.4,
+  "subject": "math",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2020_230bb",
+  "name": "math/2020新高考2(海南).pdf",
+  "file": "assets/gaokao/math/2020新高考2(海南).pdf",
+  "type": "pdf",
+  "sizeKB": 644.7,
+  "subject": "math",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2021_73778",
+  "name": "math/2021新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "file": "assets/gaokao/math/2021新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "type": "pdf",
+  "sizeKB": 489.9,
+  "subject": "math",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2021_46e51",
+  "name": "math/2021新高考2(海南,辽宁,重庆).pdf",
+  "file": "assets/gaokao/math/2021新高考2(海南,辽宁,重庆).pdf",
+  "type": "pdf",
+  "sizeKB": 495.1,
+  "subject": "math",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2022_8c613",
+  "name": "math/2022新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "file": "assets/gaokao/math/2022新高考1(山东,广东,湖南,湖北,河北,江苏,福建).pdf",
+  "type": "pdf",
+  "sizeKB": 491.7,
+  "subject": "math",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2022_55131",
+  "name": "math/2022新高考2(海南,辽宁,重庆).pdf",
+  "file": "assets/gaokao/math/2022新高考2(海南,辽宁,重庆).pdf",
+  "type": "pdf",
+  "sizeKB": 593.4,
+  "subject": "math",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2023_b3ce9",
+  "name": "math/2023新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江).pdf",
+  "file": "assets/gaokao/math/2023新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江).pdf",
+  "type": "pdf",
+  "sizeKB": 490.6,
+  "subject": "math",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2023_744e7",
+  "name": "math/2023新高考2(辽宁,重庆,海南,安徽,吉林,黑龙江,山西,云南).pdf",
+  "file": "assets/gaokao/math/2023新高考2(辽宁,重庆,海南,安徽,吉林,黑龙江,山西,云南).pdf",
+  "type": "pdf",
+  "sizeKB": 501.1,
+  "subject": "math",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_70f79",
+  "name": "math/2024上海.pdf",
+  "file": "assets/gaokao/math/2024上海.pdf",
+  "type": "pdf",
+  "sizeKB": 488.0,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_fd40c",
+  "name": "math/2024北京.pdf",
+  "file": "assets/gaokao/math/2024北京.pdf",
+  "type": "pdf",
+  "sizeKB": 492.2,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_4a7d0",
+  "name": "math/2024天津.pdf",
+  "file": "assets/gaokao/math/2024天津.pdf",
+  "type": "pdf",
+  "sizeKB": 492.7,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_75da0",
+  "name": "math/2024新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "file": "assets/gaokao/math/2024新高考1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "type": "pdf",
+  "sizeKB": 565.7,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_4c727",
+  "name": "math/2024新高考2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆).pdf",
+  "file": "assets/gaokao/math/2024新高考2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆).pdf",
+  "type": "pdf",
+  "sizeKB": 490.8,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_9d0b9",
+  "name": "math/2025上海.pdf",
+  "file": "assets/gaokao/math/2025上海.pdf",
+  "type": "pdf",
+  "sizeKB": 493.3,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_30059",
+  "name": "math/2025全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "file": "assets/gaokao/math/2025全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "type": "pdf",
+  "sizeKB": 487.2,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_10617",
+  "name": "math/2025全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "file": "assets/gaokao/math/2025全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "type": "pdf",
+  "sizeKB": 488.3,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_10bcc",
+  "name": "math/2025北京.pdf",
+  "file": "assets/gaokao/math/2025北京.pdf",
+  "type": "pdf",
+  "sizeKB": 490.7,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2025_a7810",
+  "name": "math/2025天津.pdf",
+  "file": "assets/gaokao/math/2025天津.pdf",
+  "type": "pdf",
+  "sizeKB": 221.7,
+  "subject": "math",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_bb6b8",
+  "name": "math/2026上海.pdf",
+  "file": "assets/gaokao/math/2026上海.pdf",
+  "type": "pdf",
+  "sizeKB": 116.1,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_b5f99",
+  "name": "math/2026全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "file": "assets/gaokao/math/2026全国1(山东,广东,湖南,湖北,河北,江苏,福建,浙江,河南,江西,安徽).pdf",
+  "type": "pdf",
+  "sizeKB": 105.2,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_f0b1f",
+  "name": "math/2026全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "file": "assets/gaokao/math/2026全国2(辽宁,重庆,海南,吉林,黑龙江,山西,云南,广西,甘肃,贵州,新疆,四川,内蒙古,陕西,青海,宁夏,西藏).pdf",
+  "type": "pdf",
+  "sizeKB": 102.9,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_36dcd",
+  "name": "math/2026北京.pdf",
+  "file": "assets/gaokao/math/2026北京.pdf",
+  "type": "pdf",
+  "sizeKB": 141.6,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2026_81e11",
+  "name": "math/2026天津.pdf",
+  "file": "assets/gaokao/math/2026天津.pdf",
+  "type": "pdf",
+  "sizeKB": 112.9,
+  "subject": "math",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaomath（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_50a4b",
+  "name": "physics/2021山东.pdf",
+  "file": "assets/gaokao/physics/2021山东.pdf",
+  "type": "pdf",
+  "sizeKB": 918.8,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_7ba61",
+  "name": "physics/2021广东.pdf",
+  "file": "assets/gaokao/physics/2021广东.pdf",
+  "type": "pdf",
+  "sizeKB": 761.5,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_03309",
+  "name": "physics/2021江苏.pdf",
+  "file": "assets/gaokao/physics/2021江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 815.8,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_6f5ee",
+  "name": "physics/2021河北.pdf",
+  "file": "assets/gaokao/physics/2021河北.pdf",
+  "type": "pdf",
+  "sizeKB": 926.7,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_5f6aa",
+  "name": "physics/2021浙江1月.pdf",
+  "file": "assets/gaokao/physics/2021浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 1002.0,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_0ffb3",
+  "name": "physics/2021浙江6月.pdf",
+  "file": "assets/gaokao/physics/2021浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 1326.6,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_14578",
+  "name": "physics/2021海南.pdf",
+  "file": "assets/gaokao/physics/2021海南.pdf",
+  "type": "pdf",
+  "sizeKB": 690.0,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_50701",
+  "name": "physics/2021湖北.pdf",
+  "file": "assets/gaokao/physics/2021湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 641.4,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_9d4a4",
+  "name": "physics/2021湖南.pdf",
+  "file": "assets/gaokao/physics/2021湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 1083.4,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_4173f",
+  "name": "physics/2021福建.pdf",
+  "file": "assets/gaokao/physics/2021福建.pdf",
+  "type": "pdf",
+  "sizeKB": 724.4,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_5e264",
+  "name": "physics/2021辽宁.pdf",
+  "file": "assets/gaokao/physics/2021辽宁.pdf",
+  "type": "pdf",
+  "sizeKB": 671.4,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2021_f3033",
+  "name": "physics/2021重庆.pdf",
+  "file": "assets/gaokao/physics/2021重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 731.7,
+  "subject": "physics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_76c4a",
+  "name": "physics/2022山东.pdf",
+  "file": "assets/gaokao/physics/2022山东.pdf",
+  "type": "pdf",
+  "sizeKB": 1220.7,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_5dc60",
+  "name": "physics/2022广东.pdf",
+  "file": "assets/gaokao/physics/2022广东.pdf",
+  "type": "pdf",
+  "sizeKB": 889.8,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_25508",
+  "name": "physics/2022江苏.pdf",
+  "file": "assets/gaokao/physics/2022江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 826.2,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_493ef",
+  "name": "physics/2022河北.pdf",
+  "file": "assets/gaokao/physics/2022河北.pdf",
+  "type": "pdf",
+  "sizeKB": 1118.1,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_89cd3",
+  "name": "physics/2022浙江1月.pdf",
+  "file": "assets/gaokao/physics/2022浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 921.3,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_d95ca",
+  "name": "physics/2022浙江6月.pdf",
+  "file": "assets/gaokao/physics/2022浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 1236.8,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_32379",
+  "name": "physics/2022海南.pdf",
+  "file": "assets/gaokao/physics/2022海南.pdf",
+  "type": "pdf",
+  "sizeKB": 561.0,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_76100",
+  "name": "physics/2022湖北.pdf",
+  "file": "assets/gaokao/physics/2022湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 823.4,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_bb2a5",
+  "name": "physics/2022湖南.pdf",
+  "file": "assets/gaokao/physics/2022湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 1148.0,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_6713e",
+  "name": "physics/2022福建.pdf",
+  "file": "assets/gaokao/physics/2022福建.pdf",
+  "type": "pdf",
+  "sizeKB": 784.8,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_78465",
+  "name": "physics/2022辽宁.pdf",
+  "file": "assets/gaokao/physics/2022辽宁.pdf",
+  "type": "pdf",
+  "sizeKB": 778.9,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2022_d5632",
+  "name": "physics/2022重庆.pdf",
+  "file": "assets/gaokao/physics/2022重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 969.9,
+  "subject": "physics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_9b38a",
+  "name": "physics/2023山东.pdf",
+  "file": "assets/gaokao/physics/2023山东.pdf",
+  "type": "pdf",
+  "sizeKB": 916.4,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_b03a0",
+  "name": "physics/2023广东.pdf",
+  "file": "assets/gaokao/physics/2023广东.pdf",
+  "type": "pdf",
+  "sizeKB": 542.6,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_03482",
+  "name": "physics/2023新高考理综(山西,吉林,黑龙江,安徽,云南).pdf",
+  "file": "assets/gaokao/physics/2023新高考理综(山西,吉林,黑龙江,安徽,云南).pdf",
+  "type": "pdf",
+  "sizeKB": 546.7,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_c8ac8",
+  "name": "physics/2023江苏.pdf",
+  "file": "assets/gaokao/physics/2023江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 692.0,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_a4c2f",
+  "name": "physics/2023河北.pdf",
+  "file": "assets/gaokao/physics/2023河北.pdf",
+  "type": "pdf",
+  "sizeKB": 984.5,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_3473b",
+  "name": "physics/2023浙江1月.pdf",
+  "file": "assets/gaokao/physics/2023浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 1006.4,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_64e22",
+  "name": "physics/2023浙江6月.pdf",
+  "file": "assets/gaokao/physics/2023浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 874.9,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_9bec0",
+  "name": "physics/2023湖北.pdf",
+  "file": "assets/gaokao/physics/2023湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 888.5,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_56d65",
+  "name": "physics/2023湖南.pdf",
+  "file": "assets/gaokao/physics/2023湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 1072.4,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_8aefe",
+  "name": "physics/2023福建.pdf",
+  "file": "assets/gaokao/physics/2023福建.pdf",
+  "type": "pdf",
+  "sizeKB": 4399.1,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_95ba5",
+  "name": "physics/2023辽宁.pdf",
+  "file": "assets/gaokao/physics/2023辽宁.pdf",
+  "type": "pdf",
+  "sizeKB": 929.1,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2023_389f2",
+  "name": "physics/2023重庆.pdf",
+  "file": "assets/gaokao/physics/2023重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 822.7,
+  "subject": "physics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_c8d7c",
+  "name": "physics/2024安徽.pdf",
+  "file": "assets/gaokao/physics/2024安徽.pdf",
+  "type": "pdf",
+  "sizeKB": 521.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_2a609",
+  "name": "physics/2024山东.pdf",
+  "file": "assets/gaokao/physics/2024山东.pdf",
+  "type": "pdf",
+  "sizeKB": 726.7,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_01623",
+  "name": "physics/2024广东.pdf",
+  "file": "assets/gaokao/physics/2024广东.pdf",
+  "type": "pdf",
+  "sizeKB": 619.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_938c6",
+  "name": "physics/2024广西.pdf",
+  "file": "assets/gaokao/physics/2024广西.pdf",
+  "type": "pdf",
+  "sizeKB": 561.6,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_d7445",
+  "name": "physics/2024新高考理综(河南,山西,云南,新疆).pdf",
+  "file": "assets/gaokao/physics/2024新高考理综(河南,山西,云南,新疆).pdf",
+  "type": "pdf",
+  "sizeKB": 646.2,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_79f4b",
+  "name": "physics/2024江苏.pdf",
+  "file": "assets/gaokao/physics/2024江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 482.6,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_0438b",
+  "name": "physics/2024江西.pdf",
+  "file": "assets/gaokao/physics/2024江西.pdf",
+  "type": "pdf",
+  "sizeKB": 657.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_159ac",
+  "name": "physics/2024河北.pdf",
+  "file": "assets/gaokao/physics/2024河北.pdf",
+  "type": "pdf",
+  "sizeKB": 717.4,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_24821",
+  "name": "physics/2024浙江1月.pdf",
+  "file": "assets/gaokao/physics/2024浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 860.9,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_74138",
+  "name": "physics/2024浙江6月.pdf",
+  "file": "assets/gaokao/physics/2024浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 715.8,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_6e93a",
+  "name": "physics/2024海南.pdf",
+  "file": "assets/gaokao/physics/2024海南.pdf",
+  "type": "pdf",
+  "sizeKB": 633.1,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_e78e6",
+  "name": "physics/2024湖南.pdf",
+  "file": "assets/gaokao/physics/2024湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 652.9,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_98649",
+  "name": "physics/2024甘肃.pdf",
+  "file": "assets/gaokao/physics/2024甘肃.pdf",
+  "type": "pdf",
+  "sizeKB": 570.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_3bb7d",
+  "name": "physics/2024福建.pdf",
+  "file": "assets/gaokao/physics/2024福建.pdf",
+  "type": "pdf",
+  "sizeKB": 634.1,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_08c0d",
+  "name": "physics/2024贵州.pdf",
+  "file": "assets/gaokao/physics/2024贵州.pdf",
+  "type": "pdf",
+  "sizeKB": 685.8,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_89c71",
+  "name": "physics/2024重庆.pdf",
+  "file": "assets/gaokao/physics/2024重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 534.7,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_2d95d",
+  "name": "physics/2024黑吉辽.pdf",
+  "file": "assets/gaokao/physics/2024黑吉辽.pdf",
+  "type": "pdf",
+  "sizeKB": 624.6,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_d42c7",
+  "name": "physics/2025云南.pdf",
+  "file": "assets/gaokao/physics/2025云南.pdf",
+  "type": "pdf",
+  "sizeKB": 595.8,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_49fbb",
+  "name": "physics/2025四川.pdf",
+  "file": "assets/gaokao/physics/2025四川.pdf",
+  "type": "pdf",
+  "sizeKB": 552.0,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_252bc",
+  "name": "physics/2025安徽.pdf",
+  "file": "assets/gaokao/physics/2025安徽.pdf",
+  "type": "pdf",
+  "sizeKB": 548.8,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_c79c9",
+  "name": "physics/2025山东.pdf",
+  "file": "assets/gaokao/physics/2025山东.pdf",
+  "type": "pdf",
+  "sizeKB": 693.5,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_ec9e3",
+  "name": "physics/2025广东.pdf",
+  "file": "assets/gaokao/physics/2025广东.pdf",
+  "type": "pdf",
+  "sizeKB": 655.6,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_7e706",
+  "name": "physics/2025广西.pdf",
+  "file": "assets/gaokao/physics/2025广西.pdf",
+  "type": "pdf",
+  "sizeKB": 579.0,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_9408b",
+  "name": "physics/2025江苏.pdf",
+  "file": "assets/gaokao/physics/2025江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 499.3,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_e9c4b",
+  "name": "physics/2025江西.pdf",
+  "file": "assets/gaokao/physics/2025江西.pdf",
+  "type": "pdf",
+  "sizeKB": 643.1,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_f866c",
+  "name": "physics/2025河北.pdf",
+  "file": "assets/gaokao/physics/2025河北.pdf",
+  "type": "pdf",
+  "sizeKB": 603.2,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_355c9",
+  "name": "physics/2025河南.pdf",
+  "file": "assets/gaokao/physics/2025河南.pdf",
+  "type": "pdf",
+  "sizeKB": 556.1,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_993c9",
+  "name": "physics/2025浙江1月.pdf",
+  "file": "assets/gaokao/physics/2025浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 843.5,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_c9ad0",
+  "name": "physics/2025浙江6月.pdf",
+  "file": "assets/gaokao/physics/2025浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 817.3,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_836fa",
+  "name": "physics/2025海南.pdf",
+  "file": "assets/gaokao/physics/2025海南.pdf",
+  "type": "pdf",
+  "sizeKB": 572.2,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_c7483",
+  "name": "physics/2025湖北.pdf",
+  "file": "assets/gaokao/physics/2025湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 523.2,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_d64bd",
+  "name": "physics/2025福建.pdf",
+  "file": "assets/gaokao/physics/2025福建.pdf",
+  "type": "pdf",
+  "sizeKB": 675.5,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_e53cd",
+  "name": "physics/2025贵州.pdf",
+  "file": "assets/gaokao/physics/2025贵州.pdf",
+  "type": "pdf",
+  "sizeKB": 607.6,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_643b1",
+  "name": "physics/2025重庆.pdf",
+  "file": "assets/gaokao/physics/2025重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 578.7,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_d7cbb",
+  "name": "physics/2025陕晋宁青.pdf",
+  "file": "assets/gaokao/physics/2025陕晋宁青.pdf",
+  "type": "pdf",
+  "sizeKB": 583.9,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2025_094b2",
+  "name": "physics/2025黑吉辽蒙.pdf",
+  "file": "assets/gaokao/physics/2025黑吉辽蒙.pdf",
+  "type": "pdf",
+  "sizeKB": 611.7,
+  "subject": "physics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_f24c6",
+  "name": "physics/2026云南.pdf",
+  "file": "assets/gaokao/physics/2026云南.pdf",
+  "type": "pdf",
+  "sizeKB": 692.0,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_6f9ba",
+  "name": "physics/2026四川.pdf",
+  "file": "assets/gaokao/physics/2026四川.pdf",
+  "type": "pdf",
+  "sizeKB": 563.1,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_e1fc8",
+  "name": "physics/2026山东.pdf",
+  "file": "assets/gaokao/physics/2026山东.pdf",
+  "type": "pdf",
+  "sizeKB": 672.0,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_cafe2",
+  "name": "physics/2026广东.pdf",
+  "file": "assets/gaokao/physics/2026广东.pdf",
+  "type": "pdf",
+  "sizeKB": 681.4,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_b268a",
+  "name": "physics/2026江苏.pdf",
+  "file": "assets/gaokao/physics/2026江苏.pdf",
+  "type": "pdf",
+  "sizeKB": 862.8,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_de06d",
+  "name": "physics/2026河北.pdf",
+  "file": "assets/gaokao/physics/2026河北.pdf",
+  "type": "pdf",
+  "sizeKB": 601.5,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_133c8",
+  "name": "physics/2026河南.pdf",
+  "file": "assets/gaokao/physics/2026河南.pdf",
+  "type": "pdf",
+  "sizeKB": 603.4,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_4f9b0",
+  "name": "physics/2026浙江1月.pdf",
+  "file": "assets/gaokao/physics/2026浙江1月.pdf",
+  "type": "pdf",
+  "sizeKB": 1036.5,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_1f0a9",
+  "name": "physics/2026浙江6月.pdf",
+  "file": "assets/gaokao/physics/2026浙江6月.pdf",
+  "type": "pdf",
+  "sizeKB": 827.4,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_e1282",
+  "name": "physics/2026湖北.pdf",
+  "file": "assets/gaokao/physics/2026湖北.pdf",
+  "type": "pdf",
+  "sizeKB": 476.0,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_2c127",
+  "name": "physics/2026湖南.pdf",
+  "file": "assets/gaokao/physics/2026湖南.pdf",
+  "type": "pdf",
+  "sizeKB": 499.3,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_53f88",
+  "name": "physics/2026甘肃.pdf",
+  "file": "assets/gaokao/physics/2026甘肃.pdf",
+  "type": "pdf",
+  "sizeKB": 463.2,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_c35cc",
+  "name": "physics/2026贵州.pdf",
+  "file": "assets/gaokao/physics/2026贵州.pdf",
+  "type": "pdf",
+  "sizeKB": 616.3,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_425b0",
+  "name": "physics/2026重庆.pdf",
+  "file": "assets/gaokao/physics/2026重庆.pdf",
+  "type": "pdf",
+  "sizeKB": 924.8,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_dff4b",
+  "name": "physics/2026陕晋青宁.pdf",
+  "file": "assets/gaokao/physics/2026陕晋青宁.pdf",
+  "type": "pdf",
+  "sizeKB": 540.6,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2026_acf36",
+  "name": "physics/2026黑吉辽蒙.pdf",
+  "file": "assets/gaokao/physics/2026黑吉辽蒙.pdf",
+  "type": "pdf",
+  "sizeKB": 546.9,
+  "subject": "physics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 deekur/gaokaophysics（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2024_8f648",
+  "name": "mock/雅思写作小作文讲义 for PRINT 2.0.pdf",
+  "file": "assets/gaokao/mock/雅思写作小作文讲义 for PRINT 2.0.pdf",
+  "type": "pdf",
+  "sizeKB": 1331.0,
+  "subject": "english",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2024_465b1",
+  "name": "mock/雅思阅读讲义(新).pdf",
+  "file": "assets/gaokao/mock/雅思阅读讲义(新).pdf",
+  "type": "pdf",
+  "sizeKB": 1063.9,
+  "subject": "english",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_c29ab",
+  "name": "mock/2025年贵州贵阳高三二模化学试卷 答案版.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三二模化学试卷 答案版.pdf",
+  "type": "pdf",
+  "sizeKB": 3279.0,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_7a3db",
+  "name": "mock/2025年贵州贵阳高三二模化学试卷.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三二模化学试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 2911.0,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_b2ec7",
+  "name": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷.pdf",
+  "file": "assets/gaokao/mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 460.3,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_d4e7c",
+  "name": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷（答案版）.pdf",
+  "file": "assets/gaokao/mock/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷（答案版）.pdf",
+  "type": "pdf",
+  "sizeKB": 1269.5,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_8aa90",
+  "name": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷.pdf",
+  "file": "assets/gaokao/mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 585.6,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ma_2024_8e781",
+  "name": "mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷（答案）.pdf",
+  "file": "assets/gaokao/mock/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 1709.2,
+  "subject": "math",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_4f074",
+  "name": "mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷.pdf",
+  "file": "assets/gaokao/mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 1203.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_60ec7",
+  "name": "mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷（模拟）.pdf",
+  "file": "assets/gaokao/mock/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷（模拟）.pdf",
+  "type": "pdf",
+  "sizeKB": 1282.9,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_9ffd2",
+  "name": "mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷.pdf",
+  "file": "assets/gaokao/mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 599.9,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_e922c",
+  "name": "mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷（答案）.pdf",
+  "file": "assets/gaokao/mock/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 954.1,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_98a55",
+  "name": "mock/2024年贵州贵阳高三一模物理试卷（适应性）.pdf",
+  "file": "assets/gaokao/mock/2024年贵州贵阳高三一模物理试卷（适应性）.pdf",
+  "type": "pdf",
+  "sizeKB": 1020.7,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_b7aff",
+  "name": "mock/2024年贵州贵阳高三一模物理试卷（适应性）答案.pdf",
+  "file": "assets/gaokao/mock/2024年贵州贵阳高三一模物理试卷（适应性）答案.pdf",
+  "type": "pdf",
+  "sizeKB": 1358.4,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_b74db",
+  "name": "mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）.pdf",
+  "file": "assets/gaokao/mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）.pdf",
+  "type": "pdf",
+  "sizeKB": 2676.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_b3a9f",
+  "name": "mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年广西桂林高三一模物理试卷（第一次跨市联合）（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 3007.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_a9da6",
+  "name": "mock/2025年广西河池高三一模物理试卷（八校协作体）.pdf",
+  "file": "assets/gaokao/mock/2025年广西河池高三一模物理试卷（八校协作体）.pdf",
+  "type": "pdf",
+  "sizeKB": 784.4,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_ee41a",
+  "name": "mock/2025年广西河池高三一模物理试卷（八校协作体）（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年广西河池高三一模物理试卷（八校协作体）（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 1121.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_ad503",
+  "name": "mock/2025年广西高三一模物理试卷.pdf",
+  "file": "assets/gaokao/mock/2025年广西高三一模物理试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 2977.3,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_9cac4",
+  "name": "mock/2025年广西高三一模物理试卷（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年广西高三一模物理试卷（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 3215.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_1da43",
+  "name": "mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）.pdf",
+  "type": "pdf",
+  "sizeKB": 1818.5,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_6cf2e",
+  "name": "mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 2355.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_1ac37",
+  "name": "mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））.pdf",
+  "type": "pdf",
+  "sizeKB": 1194.4,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_de815",
+  "name": "mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟“3+3+3”高考备考诊断性联考（一））（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 1470.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_6f991",
+  "name": "mock/2025年贵州贵阳高三一模物理试卷.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三一模物理试卷.pdf",
+  "type": "pdf",
+  "sizeKB": 1818.7,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_ce141",
+  "name": "mock/2025年贵州贵阳高三一模物理试卷（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三一模物理试卷（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 2352.5,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_46a25",
+  "name": "mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）.pdf",
+  "type": "pdf",
+  "sizeKB": 2175.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ph_2024_5e4d8",
+  "name": "mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）（答案）.pdf",
+  "file": "assets/gaokao/mock/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）（答案）.pdf",
+  "type": "pdf",
+  "sizeKB": 2735.0,
+  "subject": "physics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Serennity007/guizhou-exam-papers（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_a0025",
+  "name": "chinese/2020新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2020新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 6260.5,
+  "subject": "chinese",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_5e153",
+  "name": "chinese/2020新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2020新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 7297.2,
+  "subject": "chinese",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_0058f",
+  "name": "chinese/2021新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2021新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 6574.0,
+  "subject": "chinese",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_fe4f9",
+  "name": "chinese/2021新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2021新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 12244.8,
+  "subject": "chinese",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_f0d30",
+  "name": "chinese/2022新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2022新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5569.7,
+  "subject": "chinese",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_0ec46",
+  "name": "chinese/2022新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2022新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 6549.3,
+  "subject": "chinese",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_5089a",
+  "name": "chinese/2023新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2023新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5708.8,
+  "subject": "chinese",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_ae9ec",
+  "name": "chinese/2023新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2023新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5575.8,
+  "subject": "chinese",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_01a0f",
+  "name": "chinese/2024新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2024新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5336.1,
+  "subject": "chinese",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_ffb79",
+  "name": "chinese/2024新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2024新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 5894.9,
+  "subject": "chinese",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_a1fa5",
+  "name": "chinese/2025新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2025新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 816.0,
+  "subject": "chinese",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_5fed3",
+  "name": "chinese/2025新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2025新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 702.6,
+  "subject": "chinese",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_5171a",
+  "name": "chinese/2026新高考全国Ⅰ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2026新高考全国Ⅰ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 1468.2,
+  "subject": "chinese",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_af66c",
+  "name": "chinese/2026新高考全国Ⅱ卷语文.pdf",
+  "file": "assets/gaokao/chinese/2026新高考全国Ⅱ卷语文.pdf",
+  "type": "pdf",
+  "sizeKB": 634.4,
+  "subject": "chinese",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2020_f8fb8",
+  "name": "english/2020新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2020新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 166.0,
+  "subject": "english",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2020_06ece",
+  "name": "english/2020新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2020新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 272.3,
+  "subject": "english",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2021_58a12",
+  "name": "english/2021新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2021新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 162.4,
+  "subject": "english",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2021_a6b64",
+  "name": "english/2021新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2021新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 126.1,
+  "subject": "english",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2022_a82ad",
+  "name": "english/2022新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2022新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 189.1,
+  "subject": "english",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2022_563db",
+  "name": "english/2022新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2022新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 163.8,
+  "subject": "english",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2023_08707",
+  "name": "english/2023新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2023新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 155.8,
+  "subject": "english",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2023_f6671",
+  "name": "english/2023新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2023新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 177.1,
+  "subject": "english",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2024_59592",
+  "name": "english/2024新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2024新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 186.1,
+  "subject": "english",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2024_a74e4",
+  "name": "english/2024新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2024新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 189.6,
+  "subject": "english",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2025_f9038",
+  "name": "english/2025新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2025新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 825.4,
+  "subject": "english",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2025_0714e",
+  "name": "english/2025新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2025新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 405.0,
+  "subject": "english",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2026_09887",
+  "name": "english/2026新高考全国Ⅰ卷英语.pdf",
+  "file": "assets/gaokao/english/2026新高考全国Ⅰ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 295.9,
+  "subject": "english",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_en_2026_f79f1",
+  "name": "english/2026新高考全国Ⅱ卷英语.pdf",
+  "file": "assets/gaokao/english/2026新高考全国Ⅱ卷英语.pdf",
+  "type": "pdf",
+  "sizeKB": 14052.8,
+  "subject": "english",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_5e8f3",
+  "name": "politics/2020北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2020北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 693.3,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_16f88",
+  "name": "politics/2020天津卷政治.pdf",
+  "file": "assets/gaokao/politics/2020天津卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 559.8,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_cb3e7",
+  "name": "politics/2020山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2020山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 715.0,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_288fb",
+  "name": "politics/2020浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2020浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 311.5,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2020_6e066",
+  "name": "politics/2020海南卷政治.pdf",
+  "file": "assets/gaokao/politics/2020海南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 951.6,
+  "subject": "politics",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_2d3b5",
+  "name": "politics/2021北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2021北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 2817.4,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_654ce",
+  "name": "politics/2021天津卷政治.pdf",
+  "file": "assets/gaokao/politics/2021天津卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 485.1,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_b88a1",
+  "name": "politics/2021山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2021山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 850.4,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_ede3b",
+  "name": "politics/2021广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2021广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 370.5,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_1c5b3",
+  "name": "politics/2021江苏卷政治.pdf",
+  "file": "assets/gaokao/politics/2021江苏卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 3141.4,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_c2d63",
+  "name": "politics/2021河北卷政治.pdf",
+  "file": "assets/gaokao/politics/2021河北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 353.9,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_5b3bd",
+  "name": "politics/2021浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2021浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 534.5,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_1db20",
+  "name": "politics/2021海南卷政治.pdf",
+  "file": "assets/gaokao/politics/2021海南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 484.8,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_6807b",
+  "name": "politics/2021湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2021湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 774.0,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_d5b93",
+  "name": "politics/2021湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2021湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 366.0,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_743bb",
+  "name": "politics/2021福建卷政治.pdf",
+  "file": "assets/gaokao/politics/2021福建卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 574.9,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2021_f42bc",
+  "name": "politics/2021辽宁卷政治.pdf",
+  "file": "assets/gaokao/politics/2021辽宁卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 785.4,
+  "subject": "politics",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_b9e7f",
+  "name": "politics/2022北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2022北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 437.3,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_f1904",
+  "name": "politics/2022天津卷政治.pdf",
+  "file": "assets/gaokao/politics/2022天津卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 288.4,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_2c56b",
+  "name": "politics/2022山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2022山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 419.5,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_793f1",
+  "name": "politics/2022广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2022广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 646.5,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_88879",
+  "name": "politics/2022江苏卷政治.pdf",
+  "file": "assets/gaokao/politics/2022江苏卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 279.1,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_cfe77",
+  "name": "politics/2022浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2022浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 310.5,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_896ea",
+  "name": "politics/2022海南卷政治.pdf",
+  "file": "assets/gaokao/politics/2022海南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 300.0,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_fcdb1",
+  "name": "politics/2022湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2022湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 206.5,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_41659",
+  "name": "politics/2022湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2022湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 839.1,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_e0e71",
+  "name": "politics/2022福建卷政治.pdf",
+  "file": "assets/gaokao/politics/2022福建卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 734.6,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_60f76",
+  "name": "politics/2022辽宁卷政治.pdf",
+  "file": "assets/gaokao/politics/2022辽宁卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 338.0,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2022_38880",
+  "name": "politics/2022重庆卷政治.pdf",
+  "file": "assets/gaokao/politics/2022重庆卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 421.3,
+  "subject": "politics",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_ca539",
+  "name": "politics/2023北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2023北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 1275.2,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_82242",
+  "name": "politics/2023天津卷政治.pdf",
+  "file": "assets/gaokao/politics/2023天津卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 457.2,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_5fe2d",
+  "name": "politics/2023山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2023山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 710.5,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_0a8b7",
+  "name": "politics/2023广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2023广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 327.0,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_fb33f",
+  "name": "politics/2023江苏卷政治.pdf",
+  "file": "assets/gaokao/politics/2023江苏卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 1354.7,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_25bef",
+  "name": "politics/2023河北卷政治.pdf",
+  "file": "assets/gaokao/politics/2023河北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 263.7,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_bc531",
+  "name": "politics/2023浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2023浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 551.8,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_fadac",
+  "name": "politics/2023海南卷政治.pdf",
+  "file": "assets/gaokao/politics/2023海南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 343.5,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_8f6f7",
+  "name": "politics/2023湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2023湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 505.6,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_32d1f",
+  "name": "politics/2023湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2023湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 738.9,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_93537",
+  "name": "politics/2023福建卷政治.pdf",
+  "file": "assets/gaokao/politics/2023福建卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 397.5,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_13430",
+  "name": "politics/2023辽宁卷政治.pdf",
+  "file": "assets/gaokao/politics/2023辽宁卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 795.3,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2023_4b3c6",
+  "name": "politics/2023重庆卷政治.pdf",
+  "file": "assets/gaokao/politics/2023重庆卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 375.6,
+  "subject": "politics",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_803aa",
+  "name": "politics/2024北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2024北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 863.3,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_6981a",
+  "name": "politics/2024安徽卷政治.pdf",
+  "file": "assets/gaokao/politics/2024安徽卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 322.4,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_158be",
+  "name": "politics/2024山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2024山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 725.9,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_40e24",
+  "name": "politics/2024广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2024广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 731.9,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_f63a2",
+  "name": "politics/2024浙江卷政治.pdf",
+  "file": "assets/gaokao/politics/2024浙江卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 492.5,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_78b8c",
+  "name": "politics/2024湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2024湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 738.5,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2024_592a3",
+  "name": "politics/2024辽宁卷政治.pdf",
+  "file": "assets/gaokao/politics/2024辽宁卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 953.6,
+  "subject": "politics",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_01712",
+  "name": "politics/2025云南卷政治.pdf",
+  "file": "assets/gaokao/politics/2025云南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 417.7,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_116eb",
+  "name": "politics/2025内蒙古卷政治.pdf",
+  "file": "assets/gaokao/politics/2025内蒙古卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 1309.0,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_f38ec",
+  "name": "politics/2025北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2025北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 1102.2,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_1a35c",
+  "name": "politics/2025安徽卷政治.pdf",
+  "file": "assets/gaokao/politics/2025安徽卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 435.7,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_663f8",
+  "name": "politics/2025山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2025山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 4222.7,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_33562",
+  "name": "politics/2025广东卷政治.pdf",
+  "file": "assets/gaokao/politics/2025广东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 541.0,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_c2eea",
+  "name": "politics/2025江苏卷政治.pdf",
+  "file": "assets/gaokao/politics/2025江苏卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 609.0,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_1c63a",
+  "name": "politics/2025河北卷政治.pdf",
+  "file": "assets/gaokao/politics/2025河北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 480.8,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_a1dd2",
+  "name": "politics/2025河南卷政治.pdf",
+  "file": "assets/gaokao/politics/2025河南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 829.8,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_b6b22",
+  "name": "politics/2025湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2025湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 710.3,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2025_0b0ca",
+  "name": "politics/2025湖南卷政治.pdf",
+  "file": "assets/gaokao/politics/2025湖南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 711.4,
+  "subject": "politics",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_95ad8",
+  "name": "politics/2026云南卷政治.pdf",
+  "file": "assets/gaokao/politics/2026云南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 622.6,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_67526",
+  "name": "politics/2026北京卷政治.pdf",
+  "file": "assets/gaokao/politics/2026北京卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 250.0,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_f2e32",
+  "name": "politics/2026山东卷政治.pdf",
+  "file": "assets/gaokao/politics/2026山东卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 792.2,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_e4b6d",
+  "name": "politics/2026新高考全国Ⅰ卷政治.pdf",
+  "file": "assets/gaokao/politics/2026新高考全国Ⅰ卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 196.5,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_1aa1b",
+  "name": "politics/2026新高考全国Ⅱ卷政治.pdf",
+  "file": "assets/gaokao/politics/2026新高考全国Ⅱ卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 202.3,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_88bf0",
+  "name": "politics/2026河北卷政治.pdf",
+  "file": "assets/gaokao/politics/2026河北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 526.4,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_35018",
+  "name": "politics/2026河南卷政治.pdf",
+  "file": "assets/gaokao/politics/2026河南卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 2025.0,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_226e8",
+  "name": "politics/2026湖北卷政治.pdf",
+  "file": "assets/gaokao/politics/2026湖北卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 557.3,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_po_2026_15ed4",
+  "name": "politics/2026陕西卷政治.pdf",
+  "file": "assets/gaokao/politics/2026陕西卷政治.pdf",
+  "type": "pdf",
+  "sizeKB": 523.2,
+  "subject": "politics",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_c1e2a",
+  "name": "chemistry/2020上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 3607.1,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_e764c",
+  "name": "chemistry/2020北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 714.7,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_af137",
+  "name": "chemistry/2020天津卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020天津卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 900.3,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_72d58",
+  "name": "chemistry/2020山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 884.7,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_91644",
+  "name": "chemistry/2020浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 723.4,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2020_d7ed9",
+  "name": "chemistry/2020海南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2020海南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 518.6,
+  "subject": "chemistry",
+  "year": 2020,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_b256c",
+  "name": "chemistry/2021上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 556.9,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_94d0a",
+  "name": "chemistry/2021北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 873.3,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_dca71",
+  "name": "chemistry/2021天津卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021天津卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 787.4,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_0161e",
+  "name": "chemistry/2021山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 909.4,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_54084",
+  "name": "chemistry/2021广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 746.3,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_a5b0c",
+  "name": "chemistry/2021江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1163.0,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_7b3dc",
+  "name": "chemistry/2021河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 996.1,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_e2d02",
+  "name": "chemistry/2021浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 779.5,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_a459f",
+  "name": "chemistry/2021海南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021海南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 389.0,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_d1ec4",
+  "name": "chemistry/2021湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1187.5,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_6c52c",
+  "name": "chemistry/2021湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1302.5,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_cdd04",
+  "name": "chemistry/2021福建卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021福建卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 446.7,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_4dc03",
+  "name": "chemistry/2021辽宁卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021辽宁卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1497.8,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2021_15bf5",
+  "name": "chemistry/2021重庆卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2021重庆卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 418.8,
+  "subject": "chemistry",
+  "year": 2021,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_268a6",
+  "name": "chemistry/2022上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 340.3,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_000c0",
+  "name": "chemistry/2022北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 683.0,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_487bb",
+  "name": "chemistry/2022天津卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022天津卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 541.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_95bd4",
+  "name": "chemistry/2022山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1461.4,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_c0d4e",
+  "name": "chemistry/2022广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2223.4,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_316c6",
+  "name": "chemistry/2022江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 774.5,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_efe16",
+  "name": "chemistry/2022河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 622.4,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_760c8",
+  "name": "chemistry/2022浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1156.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_30855",
+  "name": "chemistry/2022海南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022海南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 698.6,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_4530e",
+  "name": "chemistry/2022湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 884.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_f88e6",
+  "name": "chemistry/2022湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1005.5,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_590ce",
+  "name": "chemistry/2022福建卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022福建卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1028.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_d91c9",
+  "name": "chemistry/2022辽宁卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022辽宁卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 753.0,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2022_8163f",
+  "name": "chemistry/2022重庆卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2022重庆卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1778.8,
+  "subject": "chemistry",
+  "year": 2022,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_553e0",
+  "name": "chemistry/2023上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 597.0,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_73b86",
+  "name": "chemistry/2023北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1036.1,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_3bcfd",
+  "name": "chemistry/2023天津卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023天津卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 276.2,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_e6092",
+  "name": "chemistry/2023山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1118.1,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_42d80",
+  "name": "chemistry/2023江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 881.4,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_9c550",
+  "name": "chemistry/2023河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 905.4,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_05b8e",
+  "name": "chemistry/2023浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1014.0,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_8b3a0",
+  "name": "chemistry/2023湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1150.2,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_f2d79",
+  "name": "chemistry/2023重庆卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023重庆卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1957.3,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_1f573",
+  "name": "chemistry/2024上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 446.3,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_39d15",
+  "name": "chemistry/2024北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1044.4,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_d06a5",
+  "name": "chemistry/2024安徽卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024安徽卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1237.6,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_ac601",
+  "name": "chemistry/2024山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 872.3,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_f909b",
+  "name": "chemistry/2024广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1444.2,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_08b13",
+  "name": "chemistry/2024江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 774.6,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_d63c3",
+  "name": "chemistry/2024河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2232.3,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_4fd1d",
+  "name": "chemistry/2024浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 855.2,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_7cedb",
+  "name": "chemistry/2024湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 967.9,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_c1533",
+  "name": "chemistry/2024湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1186.3,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_b2895",
+  "name": "chemistry/2024甘肃卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024甘肃卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1220.1,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2024_e0c1c",
+  "name": "chemistry/2024辽宁卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2024辽宁卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1215.9,
+  "subject": "chemistry",
+  "year": 2024,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_6ce35",
+  "name": "chemistry/2025上海卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025上海卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 498.7,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_dfd47",
+  "name": "chemistry/2025山东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025山东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 678.2,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_8abdd",
+  "name": "chemistry/2025广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1401.3,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_7b055",
+  "name": "chemistry/2025江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2375.5,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_a5885",
+  "name": "chemistry/2025河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2535.2,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_1836d",
+  "name": "chemistry/2025河南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025河南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 3870.3,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_3c65b",
+  "name": "chemistry/2025浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 945.8,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_0f59d",
+  "name": "chemistry/2025湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 3456.9,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_b2e75",
+  "name": "chemistry/2025湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2854.1,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_c13d3",
+  "name": "chemistry/2025甘肃卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025甘肃卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 562.8,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_1365d",
+  "name": "chemistry/2025福建卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025福建卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 971.0,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_cb0ac",
+  "name": "chemistry/2025重庆卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025重庆卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2141.8,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_2c467",
+  "name": "chemistry/2026云南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026云南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1234.4,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_fe4f9",
+  "name": "chemistry/2026内蒙古卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026内蒙古卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1635.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_793eb",
+  "name": "chemistry/2026四川卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026四川卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 2444.5,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_1e617",
+  "name": "chemistry/2026广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 843.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_efd9f",
+  "name": "chemistry/2026江苏卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026江苏卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1570.0,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_3154f",
+  "name": "chemistry/2026河北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026河北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1589.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_8cea7",
+  "name": "chemistry/2026河南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026河南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 822.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_a8b91",
+  "name": "chemistry/2026浙江卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026浙江卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 911.2,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_263bf",
+  "name": "chemistry/2026湖南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026湖南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 994.1,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_3f03b",
+  "name": "chemistry/2026贵州卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026贵州卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1529.6,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_ac06b",
+  "name": "chemistry/2026陕西卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026陕西卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 835.4,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2026_ac06b",
+  "name": "chemistry/2026陕西卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2026陕西卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 835.4,
+  "subject": "chemistry",
+  "year": 2026,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_b3608",
+  "name": "chemistry/2023广东卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023广东卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1229.4,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_43313",
+  "name": "chemistry/2023海南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023海南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 658.6,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_36848",
+  "name": "chemistry/2023湖北卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023湖北卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1223.2,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_2ab88",
+  "name": "chemistry/2023福建卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023福建卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 819.3,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2023_aaa8f",
+  "name": "chemistry/2023辽宁卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2023辽宁卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1303.3,
+  "subject": "chemistry",
+  "year": 2023,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_b89ad",
+  "name": "chemistry/2025云南卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025云南卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 7559.9,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_addc4",
+  "name": "chemistry/2025内蒙古卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025内蒙古卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 708.6,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_4a653",
+  "name": "chemistry/2025北京卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025北京卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 155.3,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_ede21",
+  "name": "chemistry/2025四川卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025四川卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 1132.9,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_a3de3",
+  "name": "chemistry/2025安徽卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025安徽卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 808.8,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ },
+ {
+  "id": "dl_gk_ch_2025_69ecf",
+  "name": "chemistry/2025山西卷化学.pdf",
+  "file": "assets/gaokao/chemistry/2025山西卷化学.pdf",
+  "type": "pdf",
+  "sizeKB": 4410.1,
+  "subject": "chemistry",
+  "year": 2025,
+  "tags": [
+   "paper"
+  ],
+  "origin": "GitHub 开源 Econom1cc/gaokao-papers-index（新高考真题卷，2026-11-15 抓取校验）"
+ }
+]);
+/* ===/GAOKAO-PAPERS=== */
