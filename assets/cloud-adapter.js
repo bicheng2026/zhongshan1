@@ -56,13 +56,18 @@
   }
 
   /* 读 OpenAI 兼容 SSE 流，边读边回调，返回完整文本。本地/云 DeepSeek 共用。
-     captureReasoning=true 时（ofm 部分免费模型只回思考链）把 reasoning 也并入答案，
-     避免拿到空回复；content 优先，reasoning 作为补充。 */
+     【思考链不外泄】推理模型（DeepSeek-R1 / 各类 :free 推理模型）会先吐
+     reasoning_content 或 reasoning 字段，那是模型的内部思考，不能给学生看。
+     这里只把 content 流式交给 UI；思考链只在「正文完全为空」时整段兜底，
+     既保证学生只看到最终结果，也避免拿到空回复。 */
   function readSSE(body, onDelta, captureReasoning) {
-    var reader = body.getReader(), dec = new TextDecoder('utf-8'), buf = '', full = '';
+    var reader = body.getReader(), dec = new TextDecoder('utf-8'), buf = '', full = '', thinking = '';
     return (function pump() {
       return reader.read().then(function (r) {
-        if (r.done) return full;
+        if (r.done) {
+          if (!full && thinking) { full = thinking; if (onDelta) onDelta(thinking); }
+          return full;
+        }
         buf += dec.decode(r.value, { stream: true });
         var lines = buf.split('\n'); buf = lines.pop();
         lines.forEach(function (line) {
@@ -72,9 +77,9 @@
           try {
             var j = JSON.parse(d), dl = j.choices && j.choices[0] && j.choices[0].delta;
             if (!dl) return;
-            var t = dl.content, rt = dl.reasoning;
+            var t = dl.content, rt = dl.reasoning || dl.reasoning_content;
             if (t) { full += t; if (onDelta) onDelta(t); }
-            else if (captureReasoning && rt) { full += rt; if (onDelta) onDelta(rt); }
+            else if (captureReasoning && rt) { thinking += rt; }   // 只缓存，不流给界面
           } catch (e) { /* 跳过半包/心跳 */ }
         });
         return pump();
@@ -431,7 +436,7 @@
   };
 
   /* ofm 专用 SSE 读取：优先 content（最终回答），reasoning（思考链）仅兜底。
-     避免把推理模型的英文 thinking 混进学生看到的答案。 */
+     思考链一律不流式展示，只在正文为空时整段收尾，避免把推理过程混进答案。 */
   function readOfmSSE(body, onDelta) {
     var reader = body.getReader(), dec = new TextDecoder('utf-8'), buf = '', full = '', reasoning = '';
     return (function pump() {
@@ -449,7 +454,7 @@
           try {
             var j = JSON.parse(d), dl = j.choices && j.choices[0] && j.choices[0].delta;
             if (!dl) return;
-            var t = dl.content, rt = dl.reasoning;
+            var t = dl.content, rt = dl.reasoning || dl.reasoning_content;
             if (t) { full += t; if (onDelta) onDelta(t); }
             else if (rt) { reasoning += rt; }
           } catch (e) { /* 跳过半包/心跳 */ }
